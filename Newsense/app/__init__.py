@@ -1,0 +1,1 @@
+# Newsense - AI News Summarizer package 

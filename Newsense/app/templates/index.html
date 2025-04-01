@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Newsense - AI News Summarizer</title>
+    
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Custom CSS -->
+    <style>
+        .card-transition {
+            transition: all 0.3s ease;
+        }
+        .card-transition:hover {
+            transform: translateY(-5px);
+        }
+        .loading-spinner {
+            display: inline-block;
+            width: 50px;
+            height: 50px;
+            border: 5px solid rgba(255, 255, 255, 0.3);
+            border-radius: 50%;
+            border-top-color: #3498db;
+            animation: spin 1s ease-in-out infinite;
+        }
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        /* Fade in animation for cards */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .fade-in {
+            animation: fadeIn 0.5s ease-out forwards;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 min-h-screen">
+    <!-- Header -->
+    <header class="bg-gradient-to-r from-blue-600 to-indigo-800 text-white shadow-md">
+        <div class="container mx-auto px-4 py-6">
+            <div class="flex flex-col md:flex-row items-center justify-between">
+                <div class="flex items-center mb-4 md:mb-0">
+                    <i class="fas fa-newspaper text-3xl mr-3"></i>
+                    <h1 class="text-3xl font-bold">Newsense</h1>
+                </div>
+                <div>
+                    <p class="text-lg font-light">AI-Powered News Summarization</p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-4 py-8">
+        <div class="flex flex-col md:flex-row gap-6">
+            <!-- Left Sidebar (Filters) - 30% width -->
+            <aside class="w-full md:w-3/10 lg:w-3/10 bg-white p-6 rounded-lg shadow-md">
+                <h2 class="text-xl font-bold mb-4 text-gray-800">Select News Source</h2>
+                
+                <div class="mb-6">
+                    <div class="grid grid-cols-2 gap-2 mb-4" id="source-buttons">
+                        {% for source in news_sources %}
+                        <button 
+                            data-source="{{ source }}" 
+                            class="source-btn bg-gray-200 hover:bg-blue-500 hover:text-white transition-colors duration-300 py-2 px-4 rounded text-sm">
+                            {{ source }}
+                        </button>
+                        {% endfor %}
+                    </div>
+                    
+                    <button 
+                        id="apply-btn" 
+                        class="w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 px-4 rounded-md transition-colors duration-300 disabled:bg-gray-400" 
+                        disabled>
+                        Apply Filters
+                    </button>
+                </div>
+                
+                <!-- Status Messages Area -->
+                <div id="status-container" class="mt-4 p-4 rounded-md hidden">
+                    <!-- Will be filled dynamically -->
+                </div>
+            </aside>
+            
+            <!-- Right Main Section (News Feed) - 70% width -->
+            <section class="w-full md:w-7/10 lg:w-7/10 bg-white p-6 rounded-lg shadow-md">
+                <h2 class="text-2xl font-bold mb-6 text-gray-800">News Feed</h2>
+                
+                <!-- Loading Spinner -->
+                <div id="loading-container" class="hidden py-12 flex justify-center">
+                    <div class="loading-spinner"></div>
+                </div>
+                
+                <!-- News Cards Container -->
+                <div id="news-container" class="space-y-6">
+                    <!-- Initial placeholder message -->
+                    <div id="placeholder-message" class="text-center py-12 text-gray-500">
+                        <i class="fas fa-newspaper text-5xl mb-4"></i>
+                        <p>Select a news source and click "Apply Filters" to view articles</p>
+                    </div>
+                    
+                    <!-- News cards will be added here dynamically -->
+                </div>
+            </section>
+        </div>
+    </main>
+    
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-6 mt-12">
+        <div class="container mx-auto px-4 text-center">
+            <p>© 2023 Newsense - AI News Summarizer</p>
+        </div>
+    </footer>
+    
+    <!-- JavaScript -->
+    <script src="/static/js/main.js"></script>
+</body>
+</html> 

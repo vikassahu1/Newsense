@@ -44,9 +44,18 @@ document.addEventListener('DOMContentLoaded', () => {
         // Clear previous news
         clearNewsContainer();
         
+        // Add a timeout to prevent infinite loading
+        const timeoutPromise = new Promise((_, reject) => 
+            setTimeout(() => reject(new Error("Request timed out after 30 seconds")), 30000)
+        );
+        
         try {
-            // Fetch news from the selected source
-            const response = await fetch(`/api/articles/${selectedSource}`);
+            // Fetch news from the selected source with timeout
+            const response = await Promise.race([
+                fetch(`/api/articles/${selectedSource}`), 
+                timeoutPromise
+            ]);
+            
             const data = await response.json();
             
             if (data.status === 'error') {
@@ -71,7 +80,11 @@ document.addEventListener('DOMContentLoaded', () => {
             
         } catch (error) {
             console.error('Error fetching news:', error);
-            showStatus('error', 'Failed to fetch news. Please try again.');
+            if (error.message.includes("timed out")) {
+                showStatus('error', `Request timed out. The server took too long to respond when loading articles from "${selectedSource}".`);
+            } else {
+                showStatus('error', 'Failed to fetch news. Please try again.');
+            }
         } finally {
             // Hide loading spinner
             showLoading(false);
@@ -91,12 +104,16 @@ document.addEventListener('DOMContentLoaded', () => {
         // Format date if available
         let formattedDate = '';
         if (article.published_date) {
-            const date = new Date(article.published_date);
-            formattedDate = date.toLocaleDateString('en-US', {
-                year: 'numeric', 
-                month: 'short', 
-                day: 'numeric'
-            });
+            try {
+                const date = new Date(article.published_date);
+                formattedDate = date.toLocaleDateString('en-US', {
+                    year: 'numeric', 
+                    month: 'short', 
+                    day: 'numeric'
+                });
+            } catch (e) {
+                console.error('Error formatting date:', article.published_date);
+            }
         }
         
         // Prepare categories display
@@ -116,11 +133,12 @@ document.addEventListener('DOMContentLoaded', () => {
                         data-src="${imgSrc}" 
                         src="/static/images/placeholder.jpg"
                         alt="${imgAlt}"
-                        loading="lazy">
+                        loading="lazy"
+                        onerror="this.onerror=null; this.src='/static/images/placeholder.jpg'; console.log('Image failed to load:', this.dataset.src);">
                 </div>
                 <div class="md:w-2/3 p-4">
                     <div class="mb-2">
-                        ${categoriesHtml}
+                        ${categoriesHtml || `<span class="inline-block bg-gray-100 text-gray-800 text-xs px-2 py-1 rounded mr-1">News</span>`}
                     </div>
                     <h3 class="text-xl font-bold mb-2">
                         <a href="${article.url}" target="_blank" class="text-blue-700 hover:text-blue-900 transition-colors">${article.title}</a>

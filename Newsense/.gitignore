@@ -13,6 +13,9 @@ ENV/
 scrapper/scraped_news/
 **/scraped_news/
 
+# Summarized news data
+summarized_news/
+
 # Logs
 *.log
 logs/

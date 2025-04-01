@@ -1,7 +1,5 @@
 # Newsense - AI-Powered News Aggregator and Summarizer
 
-![Newsense Banner](app/static/images/placeholder.jpg)
-
 Newsense is an intelligent news aggregation and summarization platform that uses AI to scrape, process, and present news from various sources. The application provides a clean, user-friendly interface for browsing summarized news articles with advanced filtering capabilities.
 
 ## 🌟 Features

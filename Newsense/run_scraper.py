@@ -33,7 +33,7 @@ def main():
         print(f"Successfully scraped {articles_count} articles in {duration:.1f} seconds")
         print(f"Articles stored in: {os.path.abspath(output_dir)}")
         
-        # List the source directories
+        # List source directories
         source_dirs = [d for d in os.listdir(output_dir) if os.path.isdir(os.path.join(output_dir, d))]
         print("\nArticles organized by source:")
         for source in source_dirs:

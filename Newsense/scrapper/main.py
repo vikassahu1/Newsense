@@ -29,11 +29,9 @@ class EnhancedNewsScraper:
             ]
         )
         self.logger = logging.getLogger("EnhancedNewsScraper")
-        
-        # Set the time threshold for recent news (in days)
         self.days_threshold = days_threshold
         
-        # Download NLTK data for categorization (if not already downloaded)
+        # NLTK data for categorization
         try:
             nltk.data.find('tokenizers/punkt')
             nltk.data.find('corpora/stopwords')
@@ -41,7 +39,7 @@ class EnhancedNewsScraper:
             nltk.download('punkt')
             nltk.download('stopwords')
         
-        # News sources configuration with default categories
+        # News sources
         self.sources = [
             {"name": "BBC", "url": "https://www.bbc.com/news", "type": "web", "default_category": "general"},
             {"name": "CNN", "url": "http://rss.cnn.com/rss/edition.rss", "type": "rss", "default_category": "general"},
@@ -61,7 +59,7 @@ class EnhancedNewsScraper:
             {"name": "NDTV", "url": "https://feeds.feedburner.com/ndtvnews-top-stories", "type": "rss", "default_category": "general"},
         ]
         
-        # Define main categories
+        # main categories
         self.categories = [
             "politics", "business", "technology", "entertainment", 
             "sports", "science", "health", "world", "general"
@@ -85,7 +83,7 @@ class EnhancedNewsScraper:
         self.newspaper_config.request_timeout = 10
         self.newspaper_config.fetch_images = True  # Enable image fetching
         
-        # Create base output directory if it doesn't exist
+        #  base output directory if it doesn't exist
         self.output_dir = output_dir
         Path(self.output_dir).mkdir(parents=True, exist_ok=True)
         
@@ -139,9 +137,8 @@ class EnhancedNewsScraper:
     def is_recent_article(self, published_date):
         """Check if an article was published within the threshold period"""
         if not published_date:
-            return True  # If we can't determine the date, include it anyway
-            
-        # Convert string to datetime if needed
+            return True     
+        # Convert string to datetime
         if isinstance(published_date, str):
             try:
                 published_date = datetime.datetime.fromisoformat(published_date.replace('Z', '+00:00'))
@@ -312,9 +309,8 @@ class EnhancedNewsScraper:
                     article = Article(url, config=self.newspaper_config)
                     article.download()
                     article.parse()
-                    article.nlp()  # Run NLP to extract keywords and summary
-                    
-                    # Skip articles with minimal content
+                    article.nlp() 
+
                     if len(article.text) < 500:
                         continue
                     
@@ -456,17 +452,14 @@ class EnhancedNewsScraper:
             
         return sorted(list(categories))
 
-# Example usage
 if __name__ == "__main__":
     scraper = EnhancedNewsScraper(output_dir="scraped_news")
     num_articles = scraper.scrape_all_sources()
     print(f"Scraped {num_articles} articles")
-    
-    # Get all available categories
+
     categories = scraper.get_available_categories()
     print(f"Available categories: {', '.join(categories)}")
-    
-    # Get recent articles
+
     recent = scraper.get_recent_articles(5)
     for article in recent:
         print(f"Title: {article['title']}")

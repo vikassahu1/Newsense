@@ -17,7 +17,6 @@ class NewsSummarizer:
         
         try:
             self.logger.info(f"Loading model: {model_name}")
-            # Initialize tokenizer and model for the summarization task
             self.tokenizer = AutoTokenizer.from_pretrained(model_name)
             self.model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
             
@@ -30,7 +29,6 @@ class NewsSummarizer:
             )
             self.logger.info("Model loaded successfully")
             
-            # Download NLTK data for word tokenization if not already downloaded
             try:
                 nltk.data.find('tokenizers/punkt')
             except LookupError:
@@ -132,12 +130,9 @@ class NewsSummarizer:
         # For very short texts, return as is
         if len(sentences) <= 3:
             return content
-            
         # Otherwise, take the first few sentences as a simple summary
         summary_sentences = sentences[:min(5, len(sentences))]
         summary = " ".join(summary_sentences)
-        
-        # Truncate to approximate max_length
         words = word_tokenize(summary)
         if len(words) > max_length:
             summary = " ".join(words[:max_length])
@@ -165,7 +160,6 @@ def summarize_news(content, max_length=200):
 
 # Example usage
 if __name__ == "__main__":
-    # Example news article
     sample_article = """
     The European Union has agreed to impose new sanctions on Russia over its invasion of Ukraine. 
     The sanctions target Russia's financial sector, technology imports, and individuals linked to the Kremlin.
@@ -179,8 +173,7 @@ if __name__ == "__main__":
     The United Nations estimates that millions of Ukrainians have been displaced since the conflict began.
     Peace negotiations have stalled as both sides remain far apart on key issues.
     """
-    
-    # Test the summarizer
+
     summary = summarize_news(sample_article, 50)
     print(f"Original length: {len(word_tokenize(sample_article))} words")
     print(f"Summary length: {len(word_tokenize(summary))} words")

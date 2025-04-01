@@ -13,7 +13,7 @@ def main():
         print("Please install required packages with: pip install transformers torch nltk")
         return 1
         
-    # Define source directory where scraped news is stored
+    # Defining source directory where scraped news is stored
     scraped_dir = "scrapper/scraped_news"
     
     if not os.path.exists(scraped_dir):

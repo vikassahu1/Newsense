@@ -1,0 +1,7 @@
+venv
+scrapper/scraped_news/
+scrapper/scraped_news/articles_index.csv
+scrapper/scraped_news/articles_index.csv.gz
+scrapper/scraped_news/articles_index.csv.gz.part
+scrapper/scraped_news/articles_index.csv.gz.part.tmp
+*__pycache__

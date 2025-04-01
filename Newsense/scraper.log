@@ -1,0 +1,1288 @@
+2025-04-01 12:22:15,853 - INFO - Starting scraping process for all sources
+2025-04-01 12:22:15,854 - INFO - Scraping BBC from https://www.bbc.com/news
+2025-04-01 12:22:17,025 - ERROR - Error processing web article https://www.bbc.com/news/wales/wales_politics: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:17,455 - ERROR - Error processing web article https://www.bbc.com/news/world/middle_east: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:17,804 - ERROR - Error processing web article https://www.bbc.com/news/articles/c5yl5vle2nmo: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:18,135 - ERROR - Error processing web article https://www.bbc.com/news/articles/c4g90ldvjexo: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:18,565 - ERROR - Error processing web article https://www.bbc.com/news/articles/c75dnrx43leo: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:19,103 - ERROR - Error processing web article https://www.bbc.com/news/world/africa: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:19,430 - ERROR - Error processing web article https://www.bbc.com/news/articles/czd31157m31o: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:19,823 - ERROR - Error processing web article https://www.bbc.com/news/articles/c3vw04wvq9yo: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:20,534 - ERROR - Error processing web article https://www.bbc.com/news/world/asia/china: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:23,211 - ERROR - Error processing web article https://www.bbc.com/news/northern_ireland/northern_ireland_politics: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:23,213 - INFO - Successfully scraped 0 articles from BBC
+2025-04-01 12:22:23,214 - INFO - Scraping CNN from http://rss.cnn.com/rss/edition.rss
+2025-04-01 12:22:28,127 - ERROR - Error processing RSS article https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:28,812 - ERROR - Error processing RSS article https://www.cnn.com/videos/politics/2023/04/05/maggie-haberman-donald-trump-speech-indictment-reaction-sot-cnntm-vpx.cnn: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:29,324 - ERROR - Error processing RSS article https://www.cnn.com/collections/intl-trump-040223/: Article `download()` failed with 404 Client Error: Not Found for url: https://edition.cnn.com/collections/intl-trump-040223/ on URL https://www.cnn.com/collections/intl-trump-040223/
+2025-04-01 12:22:30,237 - ERROR - Error processing RSS article https://cnn.it/411KYN7: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:31,026 - ERROR - Error processing RSS article https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:33,920 - ERROR - Error processing RSS article https://www.cnn.com/videos/world/2023/04/02/russian-military-blogger-vladlen-tatarsky-killed-cafe-explosion-chance-vpx.cnn: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:35,563 - ERROR - Error processing RSS article https://www.cnn.com/collections/intl-ukraine-030423/: Article `download()` failed with 404 Client Error: Not Found for url: https://edition.cnn.com/collections/intl-ukraine-030423/ on URL https://www.cnn.com/collections/intl-ukraine-030423/
+2025-04-01 12:22:36,106 - ERROR - Error processing RSS article https://www.cnn.com/2023/04/03/politics/chinese-spy-balloon/index.html: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:36,717 - ERROR - Error processing RSS article https://www.cnn.com/2023/04/04/asia/tsai-ing-wen-taiwan-mccarthy-meeting-analysis-intl-hnk/index.html: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:37,384 - ERROR - Error processing RSS article https://www.cnn.com/videos/world/2023/04/03/soldiers-russia-ukraine-war-david-mckenzie-pkg-ovn-intl-ldn-vpx.cnn: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:37,394 - INFO - Successfully scraped 0 articles from CNN
+2025-04-01 12:22:37,394 - INFO - Scraping Reuters from https://www.reuters.com/
+2025-04-01 12:22:37,672 - INFO - Successfully scraped 0 articles from Reuters
+2025-04-01 12:22:37,673 - INFO - Scraping NYTimes from https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+2025-04-01 12:22:38,573 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/trump-foreign-policy-trust.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/trump-foreign-policy-trust.html on URL https://www.nytimes.com/2025/03/31/world/trump-foreign-policy-trust.html
+2025-04-01 12:22:38,783 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/europe/nato-baltic-sentry-russia.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/europe/nato-baltic-sentry-russia.html on URL https://www.nytimes.com/2025/03/31/world/europe/nato-baltic-sentry-russia.html
+2025-04-01 12:22:38,984 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/europe/marine-le-pen-embezzelment-democracy.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/europe/marine-le-pen-embezzelment-democracy.html on URL https://www.nytimes.com/2025/03/31/world/europe/marine-le-pen-embezzelment-democracy.html
+2025-04-01 12:22:39,204 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/asia/myanmar-earthquake-rescue.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/asia/myanmar-earthquake-rescue.html on URL https://www.nytimes.com/2025/03/31/world/asia/myanmar-earthquake-rescue.html
+2025-04-01 12:22:39,403 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/europe/putin-trump-russia-ukraine.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/europe/putin-trump-russia-ukraine.html on URL https://www.nytimes.com/2025/03/31/world/europe/putin-trump-russia-ukraine.html
+2025-04-01 12:22:40,832 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/asia/collapsed-bangkok-building-rescue-earthquake.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/asia/collapsed-bangkok-building-rescue-earthquake.html on URL https://www.nytimes.com/2025/03/31/world/asia/collapsed-bangkok-building-rescue-earthquake.html
+2025-04-01 12:22:40,983 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/europe/france-marine-le-pen-embezzlement-2027-election-ban.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/europe/france-marine-le-pen-embezzlement-2027-election-ban.html on URL https://www.nytimes.com/2025/03/31/world/europe/france-marine-le-pen-embezzlement-2027-election-ban.html
+2025-04-01 12:22:42,079 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/europe/prince-harry-charity-dispute-harassment.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/europe/prince-harry-charity-dispute-harassment.html on URL https://www.nytimes.com/2025/03/31/world/europe/prince-harry-charity-dispute-harassment.html
+2025-04-01 12:22:42,283 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/asia/afghanistan-refugees-pakistan-deportation.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/asia/afghanistan-refugees-pakistan-deportation.html on URL https://www.nytimes.com/2025/03/31/world/asia/afghanistan-refugees-pakistan-deportation.html
+2025-04-01 12:22:42,473 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/europe/italy-meloni-trump-europe-tensions.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/europe/italy-meloni-trump-europe-tensions.html on URL https://www.nytimes.com/2025/03/31/world/europe/italy-meloni-trump-europe-tensions.html
+2025-04-01 12:22:42,474 - INFO - Successfully scraped 0 articles from NYTimes
+2025-04-01 12:22:42,474 - INFO - Scraping TechCrunch from https://techcrunch.com/feed/
+2025-04-01 12:22:43,462 - ERROR - Error processing RSS article https://techcrunch.com/2025/03/31/openais-new-image-generator-is-now-available-to-all-users/: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:43,835 - ERROR - Error processing RSS article https://techcrunch.com/2025/03/31/construct-capital-raises-300m-fund-for-defense-and-manufacturing-tech/: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:44,233 - ERROR - Error processing RSS article https://techcrunch.com/2025/03/31/fashion-startup-caastle-appears-to-be-in-trouble/: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:44,654 - ERROR - Error processing RSS article https://techcrunch.com/2025/03/31/openai-raises-40b-at-300b-post-money-valuation/: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:45,163 - ERROR - Error processing RSS article https://techcrunch.com/2025/03/31/chatgpts-new-image-generator-is-really-good-at-faking-receipts/: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:45,590 - ERROR - Error processing RSS article https://techcrunch.com/2025/03/31/alphabets-ai-drug-discovery-platform-isomorphic-labs-raises-600m-from-thrive/: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:46,083 - ERROR - Error processing RSS article https://techcrunch.com/2025/03/31/hillary-clinton-joins-bluesky/: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:46,613 - ERROR - Error processing RSS article https://techcrunch.com/2025/03/31/openai-plans-to-release-a-new-open-language-model-in-the-coming-months/: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:47,057 - ERROR - Error processing RSS article https://techcrunch.com/2025/03/31/some-alexa-features-reportedly-wont-arrive-for-months/: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:47,574 - ERROR - Error processing RSS article https://techcrunch.com/2025/03/31/spark-mayfield-and-kleiner-perkins-pour-another-75m-into-ai-data-center-chipmaker-retym/: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:47,576 - INFO - Successfully scraped 0 articles from TechCrunch
+2025-04-01 12:22:47,576 - INFO - Scraping ESPN from https://www.espn.com/espn/rss/news
+2025-04-01 12:22:49,805 - ERROR - Error processing RSS article https://www.espn.com/womens-college-basketball/story/_/id/44485673/paige-bueckers-leads-uconn-another-final-four-win-usc: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:50,863 - ERROR - Error processing RSS article https://www.espn.com/mlb/story/_/id/44485985/with-torpedo-bat-elly-de-la-cruz-7-rbis-keys-reds-win: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:51,887 - ERROR - Error processing RSS article https://www.espn.com/nhl/story/_/id/44484606/olivia-miles-forgo-wnba-draft-enter-portal: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:52,951 - ERROR - Error processing RSS article https://www.espn.com/mlb/story/_/id/44485014/red-sox-lhp-garrett-crochet-gets-170m-extension-sources-say: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:53,936 - ERROR - Error processing RSS article https://www.espn.com/mlb/story/_/id/44482019/braves-jurickson-profar-gets-80-game-ban-ped-violation: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:54,969 - ERROR - Error processing RSS article https://www.espn.com/womens-college-basketball/story/_/id/44484273/texas-women-beat-tcu-elite-eight-reach-final-four-march-madness: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:56,205 - ERROR - Error processing RSS article https://www.espn.com/mlb/story/_/id/44486848/cubs-carson-kelly-first-ever-player-hit-march-cycle: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:57,157 - ERROR - Error processing RSS article https://www.espn.com/mlb/story/_/id/44484938/death-gardner-son-investigated-carbon-monoxide-poisoning: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:58,173 - ERROR - Error processing RSS article https://www.espn.com/womens-college-basketball/story/_/id/44474028/womens-final-four-2025-march-madness-picks-predictions-uconn-ucla-south-carolina-texas: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:59,369 - ERROR - Error processing RSS article https://www.espn.com/womens-college-basketball/story/_/id/44474153/womens-march-madness-2025-final-four-ranking-ncaa-tournament-teams-uconn-ucla-south-carolina-texas: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:22:59,373 - INFO - Successfully scraped 0 articles from ESPN
+2025-04-01 12:22:59,373 - INFO - Scraping BBC Technology from http://feeds.bbci.co.uk/news/technology/rss.xml
+2025-04-01 12:23:04,793 - ERROR - Error processing RSS article https://www.bbc.com/news/articles/clyng762q4eo: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:23:05,194 - ERROR - Error processing RSS article https://www.bbc.com/news/articles/c05m5m5v327o: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:23:05,582 - ERROR - Error processing RSS article https://www.bbc.com/news/articles/ceqjq11202ro: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:23:05,926 - ERROR - Error processing RSS article https://www.bbc.com/news/articles/cqly43k3d45o: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:23:06,204 - ERROR - Error processing RSS article https://www.bbc.com/news/articles/cwyjyj9lnryo: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:23:06,564 - ERROR - Error processing RSS article https://www.bbc.com/news/articles/cx2rw484jvdo: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:23:06,906 - ERROR - Error processing RSS article https://www.bbc.com/news/articles/cy4l4y0yd03o: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:23:07,239 - ERROR - Error processing RSS article https://www.bbc.com/news/articles/c241ezrpg69o: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:23:07,613 - ERROR - Error processing RSS article https://www.bbc.com/news/articles/cp3yv1zxn94o: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:23:07,957 - ERROR - Error processing RSS article https://www.bbc.com/news/articles/c5y4n5127dxo: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Vikas/nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Vikas\\Desktop\\Hackathon\\Newsense\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Vikas\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-04-01 12:23:07,959 - INFO - Successfully scraped 0 articles from BBC Technology
+2025-04-01 12:23:07,959 - INFO - Scraping BBC Business from http://feeds.bbci.co.uk/news/business/rss.xml
+2025-04-01 12:23:40,454 - INFO - Starting scraping process for all sources
+2025-04-01 12:23:40,455 - INFO - Scraping BBC from https://www.bbc.com/news
+2025-04-01 12:23:42,998 - INFO - Scraped web article: Germany decides to leave history in the past and prepare for war (Categories: general, world, technology, politics)
+2025-04-01 12:23:43,915 - ERROR - Error scraping BBC Business: Remote end closed connection without response
+2025-04-01 12:23:43,915 - INFO - Scraping BBC Health from http://feeds.bbci.co.uk/news/health/rss.xml
+2025-04-01 12:23:44,582 - INFO - Scraped web article: Myanmar-Thailand earthquake: Myanmar mourns earthquake dead with one minute of silence as hopes for survivors fade (Categories: general, technology)
+2025-04-01 12:23:44,932 - INFO - Scraped web article: Karen Read: What to know about the second murder trial (Categories: general, technology)
+2025-04-01 12:23:45,342 - INFO - Scraped web article: L2 Empuraan: Why Mohanlal's latest film has sparked a controversy (Categories: world, general, entertainment, technology, politics)
+2025-04-01 12:23:45,907 - INFO - Successfully scraped 4 articles from BBC
+2025-04-01 12:23:45,908 - INFO - Scraping CNN from http://rss.cnn.com/rss/edition.rss
+2025-04-01 12:23:47,625 - INFO - Scraped RSS article: Trump pleads not guilty to 34 felony counts (Categories: general, world, technology, politics)
+2025-04-01 12:23:48,339 - INFO - Scraped RSS article: Haberman reveals why Trump attacked judge and his family in speech (Categories: general)
+2025-04-01 12:23:48,861 - ERROR - Error processing RSS article https://www.cnn.com/collections/intl-trump-040223/: Article `download()` failed with 404 Client Error: Not Found for url: https://edition.cnn.com/collections/intl-trump-040223/ on URL https://www.cnn.com/collections/intl-trump-040223/
+2025-04-01 12:23:49,653 - INFO - Scraped RSS article: NHS billions wasted as bipolar patients left 'forgotten and failed' (Categories: technology, health, world)
+2025-04-01 12:23:49,933 - INFO - Scraped RSS article: READ: Trump indictment related to hush money payment (Categories: general)
+2025-04-01 12:23:50,634 - INFO - Scraped RSS article: Protests postponed after pharmacy funding boost (Categories: technology, health, world, politics)
+2025-04-01 12:23:50,815 - INFO - Scraped RSS article: Russian authorities detain suspect over St. Petersburg cafe blast (Categories: general, technology)
+2025-04-01 12:23:51,453 - INFO - Scraped RSS article: Video shows moment of deadly explosion at cafe in Russia (Categories: general)
+2025-04-01 12:23:51,517 - INFO - Scraped RSS article: Alarms, overdoses and saving lives: Two days in UK's first drug injection room (Categories: technology, health, science)
+2025-04-01 12:23:51,956 - ERROR - Error processing RSS article https://www.cnn.com/collections/intl-ukraine-030423/: Article `download()` failed with 404 Client Error: Not Found for url: https://edition.cnn.com/collections/intl-ukraine-030423/ on URL https://www.cnn.com/collections/intl-ukraine-030423/
+2025-04-01 12:23:52,539 - INFO - Scraped RSS article: Suspected Chinese spy balloon was able to transmit information back to Beijing (Categories: general, technology)
+2025-04-01 12:23:52,613 - INFO - Scraped RSS article: Morning-after pill to be made free at pharmacies in England (Categories: technology, health, politics)
+2025-04-01 12:23:53,195 - INFO - Scraped RSS article: Beijing promised to 'fight back' over Taiwan leader's US visit. But this time it has more to lose (Categories: general, world, technology, politics)
+2025-04-01 12:23:53,593 - INFO - Scraped RSS article: 'I had to use a goods lift to go for an abortion' (Categories: technology, health)
+2025-04-01 12:23:53,849 - INFO - Scraped RSS article: 'Scary, cold, hungry and lonely': Volunteer soldier shares experience on front line (Categories: general)
+2025-04-01 12:23:54,111 - INFO - Successfully scraped 8 articles from CNN
+2025-04-01 12:23:54,111 - INFO - Scraping Reuters from https://www.reuters.com/
+2025-04-01 12:23:54,336 - INFO - Successfully scraped 0 articles from Reuters
+2025-04-01 12:23:54,336 - INFO - Scraping NYTimes from https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+2025-04-01 12:23:55,227 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/trump-foreign-policy-trust.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/trump-foreign-policy-trust.html on URL https://www.nytimes.com/2025/03/31/world/trump-foreign-policy-trust.html
+2025-04-01 12:23:55,422 - INFO - Scraped RSS article: Are my braids doing more harm than good? (Categories: technology, health, science)
+2025-04-01 12:23:55,432 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/europe/nato-baltic-sentry-russia.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/europe/nato-baltic-sentry-russia.html on URL https://www.nytimes.com/2025/03/31/world/europe/nato-baltic-sentry-russia.html
+2025-04-01 12:23:55,638 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/europe/marine-le-pen-embezzelment-democracy.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/europe/marine-le-pen-embezzelment-democracy.html on URL https://www.nytimes.com/2025/03/31/world/europe/marine-le-pen-embezzelment-democracy.html
+2025-04-01 12:23:55,835 - INFO - Scraped RSS article: 'I fear I'll be dead before I get justice for my son' (Categories: technology, health, politics)
+2025-04-01 12:23:55,835 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/asia/myanmar-earthquake-rescue.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/asia/myanmar-earthquake-rescue.html on URL https://www.nytimes.com/2025/03/31/world/asia/myanmar-earthquake-rescue.html
+2025-04-01 12:23:56,036 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/europe/putin-trump-russia-ukraine.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/europe/putin-trump-russia-ukraine.html on URL https://www.nytimes.com/2025/03/31/world/europe/putin-trump-russia-ukraine.html
+2025-04-01 12:23:56,223 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/asia/collapsed-bangkok-building-rescue-earthquake.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/asia/collapsed-bangkok-building-rescue-earthquake.html on URL https://www.nytimes.com/2025/03/31/world/asia/collapsed-bangkok-building-rescue-earthquake.html
+2025-04-01 12:23:56,414 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/europe/france-marine-le-pen-embezzlement-2027-election-ban.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/europe/france-marine-le-pen-embezzlement-2027-election-ban.html on URL https://www.nytimes.com/2025/03/31/world/europe/france-marine-le-pen-embezzlement-2027-election-ban.html
+2025-04-01 12:23:56,593 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/europe/prince-harry-charity-dispute-harassment.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/europe/prince-harry-charity-dispute-harassment.html on URL https://www.nytimes.com/2025/03/31/world/europe/prince-harry-charity-dispute-harassment.html
+2025-04-01 12:23:56,796 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/asia/afghanistan-refugees-pakistan-deportation.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/asia/afghanistan-refugees-pakistan-deportation.html on URL https://www.nytimes.com/2025/03/31/world/asia/afghanistan-refugees-pakistan-deportation.html
+2025-04-01 12:23:56,911 - INFO - Scraped RSS article: Doctor 'betrayed' over son's death at her hospital (Categories: technology, health)
+2025-04-01 12:23:57,028 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/europe/italy-meloni-trump-europe-tensions.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/europe/italy-meloni-trump-europe-tensions.html on URL https://www.nytimes.com/2025/03/31/world/europe/italy-meloni-trump-europe-tensions.html
+2025-04-01 12:23:57,030 - INFO - Successfully scraped 0 articles from NYTimes
+2025-04-01 12:23:57,031 - INFO - Scraping TechCrunch from https://techcrunch.com/feed/
+2025-04-01 12:23:58,088 - INFO - Scraped RSS article: OpenAI’s new image generator is now available to all users (Categories: business, technology)
+2025-04-01 12:23:58,469 - INFO - Scraped RSS article: Baby slings unsafe for hands-free feeding, charities warn (Categories: technology, health)
+2025-04-01 12:23:58,524 - INFO - Scraped RSS article: Construct Capital raises $300M fund for defense and manufacturing tech (Categories: technology)
+2025-04-01 12:23:59,038 - INFO - Scraped RSS article: Fashion startup CaaStle appears to be in trouble (Categories: business, technology)
+2025-04-01 12:23:59,445 - INFO - Scraped RSS article: OpenAI raises $40B at $300B post-money valuation (Categories: technology)
+2025-04-01 12:23:59,582 - INFO - Scraped RSS article: Fake £4m Xanax drug gang boss jailed (Categories: technology, health)
+2025-04-01 12:23:59,634 - INFO - Successfully scraped 10 articles from BBC Health
+2025-04-01 12:23:59,634 - INFO - Scraping BBC Science from http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2025-04-01 12:24:00,182 - INFO - Scraped RSS article: ChatGPT’s new image generator is really good at faking receipts (Categories: technology)
+2025-04-01 12:24:00,613 - INFO - Scraped RSS article: Alphabet’s AI drug discovery platform Isomorphic Labs raises $600M from Thrive (Categories: science, health, technology)
+2025-04-01 12:24:01,046 - INFO - Scraped RSS article: Hillary Clinton joins Bluesky (Categories: technology, politics)
+2025-04-01 12:24:01,614 - INFO - Scraped RSS article: OpenAI plans to release a new ‘open’ AI language model in the coming months (Categories: technology)
+2025-04-01 12:24:02,053 - INFO - Scraped RSS article: Some Alexa+ features reportedly won’t arrive for months (Categories: technology)
+2025-04-01 12:24:02,813 - INFO - Scraped RSS article: Record number of illegal sewage spills in Windermere last year (Categories: technology, politics, science, business)
+2025-04-01 12:24:03,015 - INFO - Scraped RSS article: Spark, Mayfield, and Kleiner Perkins pour another $75M into AI data center chipmaker Retym (Categories: business, technology)
+2025-04-01 12:24:03,064 - INFO - Successfully scraped 10 articles from TechCrunch
+2025-04-01 12:24:03,064 - INFO - Scraping ESPN from https://www.espn.com/espn/rss/news
+2025-04-01 12:24:03,204 - INFO - Scraped RSS article: The Swedish city fined for missing an environmental target (Categories: technology, science)
+2025-04-01 12:24:04,222 - INFO - Scraped RSS article: How to watch Saturday's partial solar eclipse (Categories: science)
+2025-04-01 12:24:05,324 - INFO - Scraped RSS article: UConn returns to Final Four behind Bueckers' 31 (Categories: sports, technology)
+2025-04-01 12:24:05,518 - INFO - Scraped RSS article: Has Just Stop Oil really stopped throwing soup? (Categories: entertainment, politics, science, technology, sports)
+2025-04-01 12:24:06,010 - INFO - Scraped RSS article: England sewage spills hit record 3.6m hours last year (Categories: technology, business, world, science)
+2025-04-01 12:24:06,418 - INFO - Scraped RSS article: With torpedo bat, De La Cruz has 7 RBIs for Reds (Categories: sports, technology)
+2025-04-01 12:24:07,463 - INFO - Scraped RSS article: Sources: Miles to forgo WNBA draft, enter portal (Categories: sports)
+2025-04-01 12:24:07,744 - INFO - Scraped RSS article: Fears 19th Century canal could start to run dry in days (Categories: technology, politics, science)
+2025-04-01 12:24:08,472 - INFO - Scraped RSS article: Sources: Red Sox LHP Crochet gets $170M deal (Categories: sports)
+2025-04-01 12:24:09,512 - INFO - Scraped RSS article: Unique two-clawed dinosaur discovered (Categories: science)
+2025-04-01 12:24:09,586 - INFO - Scraped RSS article: Braves' Profar gets 80-game ban for PED violation (Categories: entertainment, sports, technology)
+2025-04-01 12:24:10,633 - INFO - Scraped RSS article: Texas finally aces Elite 8 test as familiar foe looms (Categories: sports, technology)
+2025-04-01 12:24:11,098 - INFO - Scraped RSS article: Archaeologists find 'unprecedented' Iron Age hoard (Categories: technology, science)
+2025-04-01 12:24:11,933 - INFO - Scraped RSS article: Kelly 1st to hit for March cycle, ends Cubs' drought (Categories: sports, technology)
+2025-04-01 12:24:12,108 - INFO - Scraped RSS article: Schools and hospitals get £180m solar investment (Categories: technology, politics, world, science)
+2025-04-01 12:24:12,454 - INFO - Scraped RSS article: Dark Energy experiment challenges Einstein's theory of Universe (Categories: science)
+2025-04-01 12:24:12,520 - INFO - Successfully scraped 10 articles from BBC Science
+2025-04-01 12:24:12,520 - INFO - Scraping BBC Entertainment from http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2025-04-01 12:24:13,039 - INFO - Scraped RSS article: Carbon monoxide probed in Gardner son's death (Categories: sports, technology)
+2025-04-01 12:24:14,174 - INFO - Scraped RSS article: Women's Final Four predictions: A unanimous favorite and a split decision (Categories: entertainment, sports, technology, world)
+2025-04-01 12:24:14,650 - INFO - Scraped RSS article: Reranking the women's Final Four: First look at the national semifinals (Categories: sports, technology, world)
+2025-04-01 12:24:14,685 - INFO - Successfully scraped 10 articles from ESPN
+2025-04-01 12:24:14,685 - INFO - Scraping BBC Technology from http://feeds.bbci.co.uk/news/technology/rss.xml
+2025-04-01 12:24:16,973 - INFO - Scraped RSS article: Could TikTok be banned again and who might buy it? (Categories: business, technology, politics)
+2025-04-01 12:24:17,463 - INFO - Scraped RSS article: Kink and LGBT dating apps exposed 1.5m private user images online (Categories: technology)
+2025-04-01 12:24:17,843 - INFO - Scraped RSS article: Musk's xAI buys his social media platform X (Categories: business, technology)
+2025-04-01 12:24:18,208 - INFO - Scraped RSS article: Amateur photographers hope to fix Wikipedia's 'terrible' pictures (Categories: entertainment, technology)
+2025-04-01 12:24:18,682 - INFO - Scraped RSS article: Center Parcs removes X account from website after fake account set up (Categories: technology)
+2025-04-01 12:24:19,146 - INFO - Scraped RSS article: 'UK crowds are the best': Does home advantage make a difference in esports? (Categories: sports, technology, world)
+2025-04-01 12:24:19,195 - INFO - Scraped RSS article: Adolescence hard to watch as a dad, Starmer tells creators (Categories: entertainment, politics, technology)
+2025-04-01 12:24:19,593 - INFO - Scraped RSS article: Assassin's Creed maker gets $1.25bn Chinese investment (Categories: business, technology)
+2025-04-01 12:24:19,678 - INFO - Scraped RSS article: AI was enemy No. 1 during Hollywood strikes. Now it's in Oscar-winning films (Categories: entertainment, technology, business)
+2025-04-01 12:24:19,959 - INFO - Scraped RSS article: China tariffs may be cut to seal TikTok sale, Trump says (Categories: world, technology, politics)
+2025-04-01 12:24:20,390 - INFO - Scraped RSS article: NHS software provider fined £3m over data breach after ransomware attack (Categories: health, world, technology)
+2025-04-01 12:24:21,311 - INFO - Scraped RSS article: Korean star Kim Soo-Hyun denies accusations by late actress' family (Categories: entertainment, technology)
+2025-04-01 12:24:22,491 - INFO - Scraped RSS article: Atomfall: How a forgotten nuclear disaster inspired a video game (Categories: entertainment, sports, science, business, technology)
+2025-04-01 12:24:22,551 - INFO - Successfully scraped 10 articles from BBC Technology
+2025-04-01 12:24:22,551 - INFO - Scraping BBC Business from http://feeds.bbci.co.uk/news/business/rss.xml
+2025-04-01 12:24:22,921 - INFO - Scraped RSS article: Richard Chamberlain, Shogun star, dies aged 90 (Categories: entertainment, technology)
+2025-04-01 12:24:23,561 - INFO - Scraped RSS article: A Minecraft Movie and Stranger Things star's new album: What's coming up this week (Categories: entertainment, sports, technology)
+2025-04-01 12:24:25,843 - INFO - Scraped RSS article: Usher opens 10-night London residency, with mixed results (Categories: entertainment, technology)
+2025-04-01 12:24:26,258 - INFO - Scraped RSS article: Snow White, Rachel Zegler and a toxic debate that's not going away (Categories: entertainment, politics, world, technology)
+2025-04-01 12:24:27,074 - INFO - Scraped RSS article: Comedian dropped from hosting White House correspondents' dinner (Categories: entertainment, politics)
+2025-04-01 12:24:27,435 - INFO - Scraped RSS article: Single parents hit hardest by 'awful April' bill rises (Categories: entertainment, business, technology)
+2025-04-01 12:24:27,694 - INFO - Scraped RSS article: 'I've not heard of incel before': Teenager dissects Adolescence with his worried parents (Categories: entertainment, technology)
+2025-04-01 12:24:29,259 - INFO - Scraped RSS article: Three ways to cushion the blow of bill rises (Categories: business, technology)
+2025-04-01 12:24:29,635 - INFO - Scraped RSS article: UK expects to be hit by Trump tariffs, No 10 says (Categories: business, technology, world, politics)
+2025-04-01 12:24:29,847 - INFO - Scraped RSS article: Rosco McClelland wins Billy Connolly comedy award (Categories: entertainment, world)
+2025-04-01 12:24:29,908 - INFO - Successfully scraped 10 articles from BBC Entertainment
+2025-04-01 12:24:29,909 - INFO - Completed scraping. Total articles: 30
+2025-04-01 12:24:30,070 - INFO - Scraped RSS article: Hooters restaurant chain files for bankruptcy (Categories: business)
+2025-04-01 12:24:33,321 - INFO - Scraped RSS article: The Finnish defence firms 'on steroids' (Categories: world, entertainment, science, business, technology, politics)
+2025-04-01 12:24:35,651 - INFO - Scraped RSS article: The seven bills going up this week (Categories: entertainment, business, technology, politics)
+2025-04-01 12:24:36,863 - INFO - Scraped RSS article: Primark boss quits after woman complains about his behaviour (Categories: business, technology)
+2025-04-01 12:24:38,647 - INFO - Scraped RSS article: Plan to raise protection on savings to £110,000 (Categories: business, technology, politics)
+2025-04-01 12:24:39,081 - INFO - Scraped RSS article: Thames Water picks private equity firm as preferred buyer (Categories: business, technology)
+2025-04-01 12:24:39,480 - INFO - Scraped RSS article: Markets mixed as investors brace for Trump tariffs (Categories: business, technology, world)
+2025-04-01 12:24:39,535 - INFO - Successfully scraped 10 articles from BBC Business
+2025-04-01 12:24:39,536 - INFO - Scraping BBC Health from http://feeds.bbci.co.uk/news/health/rss.xml
+2025-04-01 12:24:43,793 - INFO - Scraped RSS article: NHS billions wasted as bipolar patients left 'forgotten and failed' (Categories: health, world, technology)
+2025-04-01 12:24:44,346 - INFO - Scraped RSS article: Protests postponed after pharmacy funding boost (Categories: health, world, technology, politics)
+2025-04-01 12:24:45,063 - INFO - Scraped RSS article: Alarms, overdoses and saving lives: Two days in UK's first drug injection room (Categories: health, science, technology)
+2025-04-01 12:24:45,442 - INFO - Scraped RSS article: Morning-after pill to be made free at pharmacies in England (Categories: health, technology, politics)
+2025-04-01 12:24:45,803 - INFO - Scraped RSS article: 'I had to use a goods lift to go for an abortion' (Categories: health, technology)
+2025-04-01 12:24:46,186 - INFO - Scraped RSS article: Are my braids doing more harm than good? (Categories: health, science, technology)
+2025-04-01 12:24:46,555 - INFO - Scraped RSS article: 'I fear I'll be dead before I get justice for my son' (Categories: health, technology, politics)
+2025-04-01 12:24:46,916 - INFO - Scraped RSS article: Doctor 'betrayed' over son's death at her hospital (Categories: health, technology)
+2025-04-01 12:24:47,372 - INFO - Scraped RSS article: Baby slings unsafe for hands-free feeding, charities warn (Categories: health, technology)
+2025-04-01 12:24:48,266 - INFO - Scraped RSS article: Fake £4m Xanax drug gang boss jailed (Categories: health, technology)
+2025-04-01 12:24:48,320 - INFO - Successfully scraped 10 articles from BBC Health
+2025-04-01 12:24:48,320 - INFO - Scraping BBC Science from http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2025-04-01 12:24:59,604 - INFO - Scraped RSS article: Record number of illegal sewage spills in Windermere last year (Categories: science, business, technology, politics)
+2025-04-01 12:24:59,953 - INFO - Scraped RSS article: The Swedish city fined for missing an environmental target (Categories: science, technology)
+2025-04-01 12:25:00,325 - INFO - Scraped RSS article: How to watch Saturday's partial solar eclipse (Categories: science)
+2025-04-01 12:25:00,695 - INFO - Scraped RSS article: Has Just Stop Oil really stopped throwing soup? (Categories: entertainment, sports, science, technology, politics)
+2025-04-01 12:25:01,127 - INFO - Scraped RSS article: England sewage spills hit record 3.6m hours last year (Categories: science, business, technology, world)
+2025-04-01 12:25:01,513 - INFO - Scraped RSS article: Fears 19th Century canal could start to run dry in days (Categories: science, technology, politics)
+2025-04-01 12:25:01,833 - INFO - Scraped RSS article: Unique two-clawed dinosaur discovered (Categories: science)
+2025-04-01 12:25:02,213 - INFO - Scraped RSS article: Archaeologists find 'unprecedented' Iron Age hoard (Categories: science, technology)
+2025-04-01 12:25:02,524 - INFO - Scraped RSS article: Schools and hospitals get £180m solar investment (Categories: science, world, technology, politics)
+2025-04-01 12:25:03,137 - INFO - Scraped RSS article: Dark Energy experiment challenges Einstein's theory of Universe (Categories: science)
+2025-04-01 12:25:03,180 - INFO - Successfully scraped 10 articles from BBC Science
+2025-04-01 12:25:03,181 - INFO - Scraping BBC Entertainment from http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2025-04-01 12:25:05,471 - INFO - Scraped RSS article: Adolescence hard to watch as a dad, Starmer tells creators (Categories: entertainment, technology, politics)
+2025-04-01 12:25:05,838 - INFO - Scraped RSS article: AI was enemy No. 1 during Hollywood strikes. Now it's in Oscar-winning films (Categories: entertainment, business, technology)
+2025-04-01 12:25:06,214 - INFO - Scraped RSS article: Korean star Kim Soo-Hyun denies accusations by late actress' family (Categories: entertainment, technology)
+2025-04-01 12:25:07,284 - INFO - Scraped RSS article: Richard Chamberlain, Shogun star, dies aged 90 (Categories: entertainment, technology)
+2025-04-01 12:25:07,624 - INFO - Scraped RSS article: A Minecraft Movie and Stranger Things star's new album: What's coming up this week (Categories: entertainment, sports, technology)
+2025-04-01 12:25:07,973 - INFO - Scraped RSS article: Usher opens 10-night London residency, with mixed results (Categories: entertainment, technology)
+2025-04-01 12:25:08,339 - INFO - Scraped RSS article: Snow White, Rachel Zegler and a toxic debate that's not going away (Categories: entertainment, world, technology, politics)
+2025-04-01 12:25:08,867 - INFO - Scraped RSS article: Comedian dropped from hosting White House correspondents' dinner (Categories: entertainment, politics)
+2025-04-01 12:25:10,399 - INFO - Scraped RSS article: 'I've not heard of incel before': Teenager dissects Adolescence with his worried parents (Categories: entertainment, technology)
+2025-04-01 12:25:10,828 - INFO - Scraped RSS article: Rosco McClelland wins Billy Connolly comedy award (Categories: entertainment, world)
+2025-04-01 12:25:10,874 - INFO - Successfully scraped 10 articles from BBC Entertainment
+2025-04-01 12:25:10,874 - INFO - Completed scraping. Total articles: 82

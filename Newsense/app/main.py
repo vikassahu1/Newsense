@@ -8,6 +8,8 @@ import json
 import glob
 from typing import List, Dict, Any, Optional
 import sys
+import subprocess
+import time
 
 # Add the parent directory to sys.path to import from root
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -136,6 +138,40 @@ async def get_articles_by_source(source: str, limit: int = 20):
         print(f"Error fetching articles from {source}: {error_msg}")
         print(traceback.format_exc())
         return {"status": "error", "message": error_msg}
+
+@app.get("/api/refresh-news")
+async def refresh_news():
+    """Run the news scraper to fetch fresh articles"""
+    try:
+        print("Starting news refresh process...")
+        start_time = time.time()
+        
+        # Execute the run_scraper.py script
+        result = subprocess.run(
+            ["python", "run_scraper.py"],
+            capture_output=True,
+            text=True,
+            check=False
+        )
+        
+        # Check the result
+        if result.returncode == 0:
+            # Success
+            end_time = time.time()
+            duration = end_time - start_time
+            message = f"News refresh completed successfully in {duration:.1f} seconds"
+            print(message)
+            return {"status": "success", "message": message}
+        else:
+            # Error
+            error_message = f"Error running scraper: {result.stderr}"
+            print(error_message)
+            return {"status": "error", "message": error_message}
+    
+    except Exception as e:
+        error_message = f"Failed to refresh news: {str(e)}"
+        print(error_message)
+        return {"status": "error", "message": error_message}
 
 def get_news_sources() -> List[str]:
     """Get list of available news sources from the directory structure"""

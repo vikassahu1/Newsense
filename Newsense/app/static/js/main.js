@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const placeholderMessage = document.getElementById('placeholder-message');
     const loadingContainer = document.getElementById('loading-container');
     const statusContainer = document.getElementById('status-container');
+    const refreshButton = document.getElementById('refresh-news');
     
     // State
     let selectedSource = null;
@@ -29,6 +30,44 @@ document.addEventListener('DOMContentLoaded', () => {
             // Enable apply button
             applyButton.disabled = false;
         });
+    });
+    
+    // Event listener for refresh button
+    refreshButton.addEventListener('click', async () => {
+        // Show loading indication on the button itself
+        const originalButtonText = refreshButton.innerHTML;
+        refreshButton.innerHTML = '<i class="fas fa-spinner fa-spin mr-2"></i> Refreshing...';
+        refreshButton.disabled = true;
+        
+        try {
+            // Call the refresh API endpoint
+            const response = await fetch('/api/refresh-news');
+            const data = await response.json();
+            
+            if (data.status === 'error') {
+                showStatus('error', `Error refreshing news: ${data.message}`);
+            } else {
+                showStatus('success', data.message);
+                
+                // Reload the current source if one is selected
+                if (selectedSource) {
+                    // Simulate clicking apply button after a short delay
+                    setTimeout(() => {
+                        applyButton.click();
+                    }, 1000);
+                } else {
+                    // Just reload the page to show updated source list
+                    window.location.reload();
+                }
+            }
+        } catch (error) {
+            console.error('Error refreshing news:', error);
+            showStatus('error', 'Failed to refresh news. Please try again.');
+        } finally {
+            // Restore button state
+            refreshButton.innerHTML = originalButtonText;
+            refreshButton.disabled = false;
+        }
     });
     
     // Event listener for apply button

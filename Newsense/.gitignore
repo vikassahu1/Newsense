@@ -1,7 +1,38 @@
-venv
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Scraped news data
 scrapper/scraped_news/
+**/scraped_news/
+
+# Logs
+*.log
+logs/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
 scrapper/scraped_news/articles_index.csv
 scrapper/scraped_news/articles_index.csv.gz
 scrapper/scraped_news/articles_index.csv.gz.part
 scrapper/scraped_news/articles_index.csv.gz.part.tmp
-*__pycache__

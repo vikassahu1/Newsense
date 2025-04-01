@@ -12,13 +12,13 @@ from urllib.parse import urlparse
 from pathlib import Path
 import re
 import nltk
-nltk.download('punkt')
-nltk.download('stopwords')
+nltk.download('punkt', quiet=True)
+nltk.download('stopwords', quiet=True)
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 
 class EnhancedNewsScraper:
-    def __init__(self, output_dir="scraped_news"):
+    def __init__(self, output_dir="scraped_news", days_threshold=2):
         # Configure logging
         logging.basicConfig(
             level=logging.INFO,
@@ -29,6 +29,9 @@ class EnhancedNewsScraper:
             ]
         )
         self.logger = logging.getLogger("EnhancedNewsScraper")
+        
+        # Set the time threshold for recent news (in days)
+        self.days_threshold = days_threshold
         
         # Download NLTK data for categorization (if not already downloaded)
         try:
@@ -51,6 +54,11 @@ class EnhancedNewsScraper:
             {"name": "BBC Health", "url": "http://feeds.bbci.co.uk/news/health/rss.xml", "type": "rss", "default_category": "health"},
             {"name": "BBC Science", "url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml", "type": "rss", "default_category": "science"},
             {"name": "BBC Entertainment", "url": "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml", "type": "rss", "default_category": "entertainment"},
+            # New sources
+            {"name": "AlJazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "type": "rss", "default_category": "general"},
+            {"name": "TheHindu", "url": "https://www.thehindu.com/news/feeder/default.rss", "type": "rss", "default_category": "general"},
+            {"name": "TimesOfIndia", "url": "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms", "type": "rss", "default_category": "general"},
+            {"name": "NDTV", "url": "https://feeds.feedburner.com/ndtvnews-top-stories", "type": "rss", "default_category": "general"},
         ]
         
         # Define main categories
@@ -77,11 +85,11 @@ class EnhancedNewsScraper:
         self.newspaper_config.request_timeout = 10
         self.newspaper_config.fetch_images = True  # Enable image fetching
         
-        # Create output directory if it doesn't exist
+        # Create base output directory if it doesn't exist
         self.output_dir = output_dir
         Path(self.output_dir).mkdir(parents=True, exist_ok=True)
         
-        # Create a CSV file to store article metadata
+        # Create a main CSV file to store article metadata
         self.csv_path = os.path.join(self.output_dir, "articles_index.csv")
         if not os.path.exists(self.csv_path):
             with open(self.csv_path, 'w', newline='', encoding='utf-8') as f:
@@ -96,28 +104,53 @@ class EnhancedNewsScraper:
         articles_count = 0
         for source in self.sources:
             try:
-                self.logger.info(f"Scraping {source['name']} from {source['url']}")
+                source_name = source["name"]
+                self.logger.info(f"Scraping {source_name} from {source['url']}")
+                
+                # Create source-specific directory
+                source_dir = os.path.join(self.output_dir, self._sanitize_filename(source_name))
+                Path(source_dir).mkdir(parents=True, exist_ok=True)
                 
                 if source["type"] == "rss":
-                    articles = self.scrape_rss(source["name"], source["url"], source.get("default_category", "general"))
+                    articles = self.scrape_rss(source_name, source["url"], source.get("default_category", "general"))
                 elif source["type"] == "web":
-                    articles = self.scrape_website(source["name"], source["url"], source.get("default_category", "general"))
+                    articles = self.scrape_website(source_name, source["url"], source.get("default_category", "general"))
                 else:
-                    self.logger.warning(f"Unknown source type: {source['type']} for {source['name']}")
+                    self.logger.warning(f"Unknown source type: {source['type']} for {source_name}")
                     continue
                 
                 # Save articles
                 for article in articles:
-                    self.save_article(article)
+                    self.save_article(article, source_dir)
                 
                 articles_count += len(articles)
-                self.logger.info(f"Successfully scraped {len(articles)} articles from {source['name']}")
+                self.logger.info(f"Successfully scraped {len(articles)} articles from {source_name}")
                 
             except Exception as e:
                 self.logger.error(f"Error scraping {source['name']}: {str(e)}")
         
         self.logger.info(f"Completed scraping. Total articles: {articles_count}")
         return articles_count
+    
+    def _sanitize_filename(self, filename):
+        """Convert a string to a valid filename"""
+        return re.sub(r'[^\w\s-]', '', filename).strip().replace(' ', '_')
+    
+    def is_recent_article(self, published_date):
+        """Check if an article was published within the threshold period"""
+        if not published_date:
+            return True  # If we can't determine the date, include it anyway
+            
+        # Convert string to datetime if needed
+        if isinstance(published_date, str):
+            try:
+                published_date = datetime.datetime.fromisoformat(published_date.replace('Z', '+00:00'))
+            except ValueError:
+                return True  # If we can't parse the date, include it
+                
+        # Calculate time difference
+        time_diff = datetime.datetime.now(datetime.timezone.utc) - published_date.replace(tzinfo=datetime.timezone.utc)
+        return time_diff.days <= self.days_threshold
     
     def determine_categories(self, title, content, default_category):
         """Determine article categories based on content analysis"""
@@ -163,10 +196,22 @@ class EnhancedNewsScraper:
         articles = []
         feed = feedparser.parse(rss_url)
         
-        for entry in feed.entries[:10]:  # Limit to 10 articles per source
+        for entry in feed.entries:  # Process all entries but filter by date later
             try:
                 # Check if we have URL
                 if not hasattr(entry, 'link'):
+                    continue
+                    
+                # Parse published date
+                if hasattr(entry, "published_parsed"):
+                    published_date = datetime.datetime(*entry.published_parsed[:6], tzinfo=datetime.timezone.utc)
+                else:
+                    # Try to extract date from entry
+                    published_date = datetime.datetime.now(datetime.timezone.utc)
+                
+                # Check if article is recent
+                if not self.is_recent_article(published_date):
+                    self.logger.info(f"Skipping older article: {entry.title if hasattr(entry, 'title') else 'Unknown'}")
                     continue
                     
                 # Extract article content using newspaper3k
@@ -175,13 +220,9 @@ class EnhancedNewsScraper:
                 article.parse()
                 article.nlp()  # Run NLP to extract keywords and summary
                 
-                # Parse published date
-                if hasattr(entry, "published_parsed"):
-                    published_date = datetime.datetime(*entry.published_parsed[:6])
-                elif article.publish_date:
+                # Update published date if available from article
+                if article.publish_date:
                     published_date = article.publish_date
-                else:
-                    published_date = datetime.datetime.now()
                 
                 # Get the top image if available
                 image_url = ""
@@ -218,7 +259,7 @@ class EnhancedNewsScraper:
             except Exception as e:
                 self.logger.error(f"Error processing RSS article {entry.link if hasattr(entry, 'link') else 'unknown'}: {str(e)}")
                 
-        return articles
+        return articles[:10]  # Limit to 10 most recent articles per source
     
     def scrape_website(self, source_name, website_url, default_category):
         """Scrape articles from a website"""
@@ -247,7 +288,9 @@ class EnhancedNewsScraper:
                     continue
                     
                 # Look for links that might be articles based on URL structure
-                if any(pattern in href for pattern in ['/news/', '/article/', '/story/', '/2023/', '/2024/', '/content/']):
+                current_year = str(datetime.datetime.now().year)
+                previous_year = str(datetime.datetime.now().year - 1)
+                if any(pattern in href for pattern in ['/news/', '/article/', '/story/', f'/{current_year}/', f'/{previous_year}/', '/content/']):
                     # Handle relative URLs
                     if href.startswith('/'):
                         full_url = base_url + href
@@ -260,10 +303,10 @@ class EnhancedNewsScraper:
                     if urlparse(full_url).netloc == parsed_url.netloc:
                         article_links.add(full_url)
             
-            # Limit the number of articles to process
-            article_links = list(article_links)[:10]  # Process max 10 articles per source
-            
             # Process each article link
+            article_links = list(article_links)  # Convert to list for processing
+            scraped_articles = []
+            
             for url in article_links:
                 try:
                     article = Article(url, config=self.newspaper_config)
@@ -276,7 +319,11 @@ class EnhancedNewsScraper:
                         continue
                     
                     # Get published date or use current time
-                    published_date = article.publish_date if article.publish_date else datetime.datetime.now()
+                    published_date = article.publish_date if article.publish_date else datetime.datetime.now(datetime.timezone.utc)
+                    
+                    # Check if article is recent
+                    if not self.is_recent_article(published_date):
+                        continue
                     
                     # Determine categories
                     categories = self.determine_categories(article.title, article.text, default_category)
@@ -296,18 +343,24 @@ class EnhancedNewsScraper:
                         "image_url": article.top_image,
                     }
                     
-                    articles.append(article_data)
+                    scraped_articles.append(article_data)
                     self.logger.info(f"Scraped web article: {article.title} (Categories: {', '.join(categories)})")
                     
+                    # Stop after finding 10 valid articles
+                    if len(scraped_articles) >= 10:
+                        break
+                        
                 except Exception as e:
                     self.logger.error(f"Error processing web article {url}: {str(e)}")
+            
+            articles = scraped_articles
         
         except Exception as e:
             self.logger.error(f"Error scraping website {website_url}: {str(e)}")
             
         return articles
     
-    def save_article(self, article):
+    def save_article(self, article, source_dir):
         """Save article to disk and update the index"""
         try:
             # Create a unique ID for the article based on URL
@@ -317,11 +370,14 @@ class EnhancedNewsScraper:
             # Create a filename
             timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
             filename = f"{article_id}_{timestamp}.json"
-            filepath = os.path.join(self.output_dir, filename)
+            filepath = os.path.join(source_dir, filename)
             
             # Save the full article data as JSON
             with open(filepath, 'w', encoding='utf-8') as f:
                 json.dump(article, f, ensure_ascii=False, indent=4)
+            
+            # Get relative path for CSV index
+            rel_filepath = os.path.relpath(filepath, self.output_dir)
             
             # Update the CSV index
             with open(self.csv_path, 'a', newline='', encoding='utf-8') as f:
@@ -335,7 +391,7 @@ class EnhancedNewsScraper:
                     article["scraped_date"],
                     ",".join(article["categories"]),
                     "yes" if article.get("image_url") else "no",
-                    filename
+                    rel_filepath
                 ])
                 
             return filepath

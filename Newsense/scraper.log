@@ -2731,3 +2731,608 @@
 2025-04-01 20:09:23,885 - INFO - Scraped RSS article: Dagger To Chicken's Neck? Why Bangladesh Leader's Remarks Enraged India (Categories: general, world, technology, politics)
 2025-04-01 20:09:24,000 - INFO - Successfully scraped 10 articles from NDTV
 2025-04-01 20:09:24,000 - INFO - Completed scraping. Total articles: 107
+2025-04-01 22:02:47,102 - INFO - Starting scraping process for all sources
+2025-04-01 22:02:47,102 - INFO - Scraping BBC from https://www.bbc.com/news
+2025-04-01 22:02:48,633 - INFO - Scraped web article: BBC Verify: Satellite images show Myanmar earthquake destruction (Categories: general)
+2025-04-01 22:02:54,309 - INFO - Scraped web article: India: ‘Mum was willing to lose everything to support my trans identity’ (Categories: general, world)
+2025-04-01 22:02:54,731 - INFO - Scraped web article: Florida special election leaves Republicans anxious (Categories: general, world, technology, politics)
+2025-04-01 22:02:56,419 - INFO - Scraped web article: Milton Keynes police shoot man dead at railway station (Categories: general, technology)
+2025-04-01 22:02:56,951 - INFO - Scraped web article: Karen Read: What to know about the second murder trial (Categories: general, technology)
+2025-04-01 22:03:00,364 - INFO - Scraped web article: Four killed in Israeli strike on Beirut, Lebanon says, despite ceasefire (Categories: general, technology, politics)
+2025-04-01 22:03:01,919 - INFO - Scraped web article: Outrage in Somalia after man says he married missing eight-year-old (Categories: general, technology)
+2025-04-01 22:03:05,723 - INFO - Scraped web article: Bletchley Park code breaker Betty Webb dies aged 101 (Categories: general, world, technology)
+2025-04-01 22:03:08,457 - INFO - Scraped web article: April Fool's Day: Are we too suspicious of a prank story nowadays? (Categories: general, technology, politics)
+2025-04-01 22:03:11,435 - INFO - Scraped web article: Screen time in bed linked to worse sleep, study finds (Categories: general, technology, science)
+2025-04-01 22:03:11,479 - INFO - Successfully scraped 10 articles from BBC
+2025-04-01 22:03:11,479 - INFO - Scraping CNN from http://rss.cnn.com/rss/edition.rss
+2025-04-01 22:03:14,955 - INFO - Scraped RSS article: Trump pleads not guilty to 34 felony counts (Categories: general, world, technology, politics)
+2025-04-01 22:03:14,955 - INFO - Skipping older article: Haberman reveals why Trump attacked judge and his family in speech
+2025-04-01 22:03:14,956 - INFO - Skipping older article: What to know about the Trump indictment on the eve of his court appearance
+2025-04-01 22:03:16,292 - INFO - Scraped RSS article: READ: Trump indictment related to hush money payment (Categories: general)
+2025-04-01 22:03:18,536 - INFO - Scraped RSS article: Russian authorities detain suspect over St. Petersburg cafe blast (Categories: general, technology)
+2025-04-01 22:03:18,536 - INFO - Skipping older article: Video shows moment of deadly explosion at cafe in Russia
+2025-04-01 22:03:18,536 - INFO - Skipping older article: Wall Street Journal reporter Evan Gershkovich appeals against arrest, Russian state media says
+2025-04-01 22:03:18,536 - INFO - Skipping older article: Suspected Chinese spy balloon was able to transmit information back to Beijing
+2025-04-01 22:03:18,536 - INFO - Skipping older article: Beijing promised to 'fight back' over Taiwan leader's US visit. But this time it has more to lose
+2025-04-01 22:03:18,536 - INFO - Skipping older article: 'Scary, cold, hungry and lonely': Volunteer soldier shares experience on front line
+2025-04-01 22:03:18,536 - INFO - Skipping older article: The four astronauts NASA picked for the first crewed moon mission in 50 years
+2025-04-01 22:03:18,537 - INFO - Skipping older article: French minister under fire for Playboy magazine cover
+2025-04-01 22:03:18,537 - INFO - Skipping older article: Why did Finland's PM lose? Reporter explains the key issue voters cared about
+2025-04-01 22:03:18,537 - INFO - Skipping older article: Britain's pound is beating every other major currency this year
+2025-04-01 22:03:18,537 - INFO - Skipping older article: Finland's Prime Minister Sanna Marin concedes election
+2025-04-01 22:03:20,368 - INFO - Scraped RSS article: Hundreds of millions at risk from Chinese shopping app malware (Categories: technology, science, sports, world, business, general, politics)
+2025-04-01 22:03:20,368 - INFO - Skipping older article: The $500 billion beauty industry's 'green' ambitions are a patchwork at best. And they're falling short
+2025-04-01 22:03:20,368 - INFO - Skipping older article: A new approach to a Covid-19 nasal vaccine shows early promise
+2025-04-01 22:03:20,368 - INFO - Skipping older article: Video shows moment man throws yogurt on two women in Iran
+2025-04-01 22:03:20,368 - INFO - Skipping older article: Israeli military veterans, a backbone of protest movement, vow to keep demonstrating
+2025-04-01 22:03:20,369 - INFO - Skipping older article: Erdogan's political fate may be determined by Turkey's Kurds
+2025-04-01 22:03:20,369 - INFO - Skipping older article: Dogecoin jumps after Elon Musk replaces Twitter bird with Shiba Inu
+2025-04-01 22:03:20,369 - INFO - Skipping older article: Micron Technology: China probes US chip maker for cybersecurity risks as tech tension escalates
+2025-04-01 22:03:20,369 - INFO - Skipping older article: Man rides out tornado inside van. See the footage
+2025-04-01 22:03:20,369 - INFO - Skipping older article: China Renaissance suspends trading, delays results after founder's disappearance
+2025-04-01 22:03:20,369 - INFO - Skipping older article: HSBC's top execs face tense shareholders calling for a breakup
+2025-04-01 22:03:20,369 - INFO - Skipping older article: Lawmaker speaks out about his struggle with depression
+2025-04-01 22:03:20,369 - INFO - Skipping older article: CEOs are tired of being held responsible for gun regulation
+2025-04-01 22:03:20,369 - INFO - Skipping older article: What pet cemeteries reveal about being human
+2025-04-01 22:03:20,369 - INFO - Skipping older article: Scientists film deepest ever fish on seabed off Japan
+2025-04-01 22:03:20,369 - INFO - Skipping older article: What OPEC's surprise oil cut means for gas prices
+2025-04-01 22:03:20,369 - INFO - Skipping older article: Palestinian taxi driver recounts surviving attack by right-wing protesters
+2025-04-01 22:03:20,369 - INFO - Skipping older article: Giving Marjorie Taylor Greene a platform isn't good for America
+2025-04-01 22:03:20,370 - INFO - Skipping older article: These are the animals people most want to see photographed
+2025-04-01 22:03:20,370 - INFO - Skipping older article: Syrian refugee elected mayor of German town, years after fleeing war
+2025-04-01 22:03:20,370 - INFO - Skipping older article: Study finds slightly higher risk of autism diagnosis in areas with more lithium in drinking water, but experts say more research is needed
+2025-04-01 22:03:20,370 - INFO - Skipping older article: Kwame Brathwaite, photographer of 'Black is Beautiful' movement, dies at 85
+2025-04-01 22:03:20,370 - INFO - Skipping older article: This boiled bag of offal is banned in the US. In Scotland it's a fine-dining treat
+2025-04-01 22:03:20,370 - INFO - Skipping older article: Musk's Twitter promised a purge of blue check marks. Instead he singled out the New York Times
+2025-04-01 22:03:20,370 - INFO - Skipping older article: See the world's deepest fish
+2025-04-01 22:03:20,370 - INFO - Skipping older article: Emma Heming Willis shares family photos as daughter Mabel turns 11
+2025-04-01 22:03:20,370 - INFO - Skipping older article: Some fans whistle as Lionel Messi's name is announced as Paris Saint-Germain's season hits new low
+2025-04-01 22:03:20,370 - INFO - Skipping older article: Chelsea searches for new manager as Premier League breaks record for most sackings in a single season
+2025-04-01 22:03:20,370 - INFO - Skipping older article: See 'Star Wars' legend react to Acosta's Darth Vader impression
+2025-04-01 22:03:20,370 - INFO - Skipping older article: Angel Reese defends gesture directed towards Caitlin Clark after LSU national title win; calls out double standard after being 'unapologetically' her
+2025-04-01 22:03:20,371 - INFO - Skipping older article: Teenage swimmer breaks two world records in four days
+2025-04-01 22:03:20,371 - INFO - Skipping older article: The haunting Masters meltdown that changed Rory McIlroy's career
+2025-04-01 22:03:20,371 - INFO - Skipping older article: A snowboarder got buried upside down in snow. See skier's quick reaction.
+2025-04-01 22:03:20,371 - INFO - Skipping older article: 2023 March Madness: Will UConn or San Diego State triumph in the national championship game that 'means everything?'
+2025-04-01 22:03:20,371 - INFO - Skipping older article: Shania Twain calls for equal pay and more diversity in country music
+2025-04-01 22:03:20,511 - INFO - Successfully scraped 4 articles from CNN
+2025-04-01 22:03:20,511 - INFO - Scraping Reuters from https://www.reuters.com/
+2025-04-01 22:03:21,009 - INFO - Successfully scraped 0 articles from Reuters
+2025-04-01 22:03:21,010 - INFO - Scraping NYTimes from https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+2025-04-01 22:03:24,220 - ERROR - Error processing RSS article https://www.nytimes.com/2025/04/01/world/canada/irving-family-canada-oil-environment.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/04/01/world/canada/irving-family-canada-oil-environment.html on URL https://www.nytimes.com/2025/04/01/world/canada/irving-family-canada-oil-environment.html
+2025-04-01 22:03:24,544 - ERROR - Error processing RSS article https://www.nytimes.com/2025/04/01/world/middleeast/syria-israel-border.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/04/01/world/middleeast/syria-israel-border.html on URL https://www.nytimes.com/2025/04/01/world/middleeast/syria-israel-border.html
+2025-04-01 22:03:24,868 - ERROR - Error processing RSS article https://www.nytimes.com/2025/04/01/world/europe/le-pen-voters-outrage-conviction.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/04/01/world/europe/le-pen-voters-outrage-conviction.html on URL https://www.nytimes.com/2025/04/01/world/europe/le-pen-voters-outrage-conviction.html
+2025-04-01 22:03:25,250 - ERROR - Error processing RSS article https://www.nytimes.com/2025/04/01/world/europe/russia-lgbtq-gay-prison-death-andrei-kotov.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/04/01/world/europe/russia-lgbtq-gay-prison-death-andrei-kotov.html on URL https://www.nytimes.com/2025/04/01/world/europe/russia-lgbtq-gay-prison-death-andrei-kotov.html
+2025-04-01 22:03:25,857 - ERROR - Error processing RSS article https://www.nytimes.com/2025/04/01/world/asia/myanmar-mandalay-earthquake-condo.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/04/01/world/asia/myanmar-mandalay-earthquake-condo.html on URL https://www.nytimes.com/2025/04/01/world/asia/myanmar-mandalay-earthquake-condo.html
+2025-04-01 22:03:26,081 - ERROR - Error processing RSS article https://www.nytimes.com/2025/04/01/world/middleeast/israel-netanyahu-trump-shin-bet.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/04/01/world/middleeast/israel-netanyahu-trump-shin-bet.html on URL https://www.nytimes.com/2025/04/01/world/middleeast/israel-netanyahu-trump-shin-bet.html
+2025-04-01 22:03:26,343 - ERROR - Error processing RSS article https://www.nytimes.com/2025/04/01/world/europe/italy-citizenship-rules.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/04/01/world/europe/italy-citizenship-rules.html on URL https://www.nytimes.com/2025/04/01/world/europe/italy-citizenship-rules.html
+2025-04-01 22:03:26,730 - ERROR - Error processing RSS article https://www.nytimes.com/2025/04/01/world/europe/smartphone-ban-schools-uk-childhood.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/04/01/world/europe/smartphone-ban-schools-uk-childhood.html on URL https://www.nytimes.com/2025/04/01/world/europe/smartphone-ban-schools-uk-childhood.html
+2025-04-01 22:03:26,999 - ERROR - Error processing RSS article https://www.nytimes.com/2025/04/01/world/europe/pope-francis-health-vatican.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/04/01/world/europe/pope-francis-health-vatican.html on URL https://www.nytimes.com/2025/04/01/world/europe/pope-francis-health-vatican.html
+2025-04-01 22:03:27,224 - ERROR - Error processing RSS article https://www.nytimes.com/2025/04/01/world/europe/iceland-volcano-eruption-grindavik.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/04/01/world/europe/iceland-volcano-eruption-grindavik.html on URL https://www.nytimes.com/2025/04/01/world/europe/iceland-volcano-eruption-grindavik.html
+2025-04-01 22:03:27,740 - ERROR - Error processing RSS article https://www.nytimes.com/2025/04/01/world/asia/china-taiwan-military-drills.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/04/01/world/asia/china-taiwan-military-drills.html on URL https://www.nytimes.com/2025/04/01/world/asia/china-taiwan-military-drills.html
+2025-04-01 22:03:28,137 - ERROR - Error processing RSS article https://www.nytimes.com/2025/04/01/world/asia/bangladesh-islam.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/04/01/world/asia/bangladesh-islam.html on URL https://www.nytimes.com/2025/04/01/world/asia/bangladesh-islam.html
+2025-04-01 22:03:28,437 - ERROR - Error processing RSS article https://www.nytimes.com/2025/04/01/world/asia/china-hong-kong-sanctions.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/04/01/world/asia/china-hong-kong-sanctions.html on URL https://www.nytimes.com/2025/04/01/world/asia/china-hong-kong-sanctions.html
+2025-04-01 22:03:28,846 - ERROR - Error processing RSS article https://www.nytimes.com/2025/04/01/world/asia/bangladesh-politics.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/04/01/world/asia/bangladesh-politics.html on URL https://www.nytimes.com/2025/04/01/world/asia/bangladesh-politics.html
+2025-04-01 22:03:29,155 - ERROR - Error processing RSS article https://www.nytimes.com/2025/04/01/world/middleeast/israel-un-workers-gaza.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/04/01/world/middleeast/israel-un-workers-gaza.html on URL https://www.nytimes.com/2025/04/01/world/middleeast/israel-un-workers-gaza.html
+2025-04-01 22:03:29,469 - ERROR - Error processing RSS article https://www.nytimes.com/2025/04/01/health/usaid-contraception-cuts.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/04/01/health/usaid-contraception-cuts.html on URL https://www.nytimes.com/2025/04/01/health/usaid-contraception-cuts.html
+2025-04-01 22:03:30,493 - ERROR - Error processing RSS article https://www.nytimes.com/2025/04/01/world/asia/spacex-rocket-launch.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/04/01/world/asia/spacex-rocket-launch.html on URL https://www.nytimes.com/2025/04/01/world/asia/spacex-rocket-launch.html
+2025-04-01 22:03:30,802 - ERROR - Error processing RSS article https://www.nytimes.com/2025/04/01/business/hooters-restaurant-bankruptcy.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/04/01/business/hooters-restaurant-bankruptcy.html on URL https://www.nytimes.com/2025/04/01/business/hooters-restaurant-bankruptcy.html
+2025-04-01 22:03:31,107 - ERROR - Error processing RSS article https://www.nytimes.com/2025/04/01/briefing/trump-le-pen-israel.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/04/01/briefing/trump-le-pen-israel.html on URL https://www.nytimes.com/2025/04/01/briefing/trump-le-pen-israel.html
+2025-04-01 22:03:31,314 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/middleeast/israel-strike-lebanon-beirut.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/middleeast/israel-strike-lebanon-beirut.html on URL https://www.nytimes.com/2025/03/31/world/middleeast/israel-strike-lebanon-beirut.html
+2025-04-01 22:03:31,541 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/asia/south-korea-yoon-impeach-court.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/asia/south-korea-yoon-impeach-court.html on URL https://www.nytimes.com/2025/03/31/world/asia/south-korea-yoon-impeach-court.html
+2025-04-01 22:03:31,833 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/briefing/le-pen-guilty-markets-tariffs-myanmar-earthquake-aid.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/briefing/le-pen-guilty-markets-tariffs-myanmar-earthquake-aid.html on URL https://www.nytimes.com/2025/03/31/briefing/le-pen-guilty-markets-tariffs-myanmar-earthquake-aid.html
+2025-04-01 22:03:32,031 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/middleeast/uae-death-sentence-rabbi-killing.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/middleeast/uae-death-sentence-rabbi-killing.html on URL https://www.nytimes.com/2025/03/31/world/middleeast/uae-death-sentence-rabbi-killing.html
+2025-04-01 22:03:32,239 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/us/politics/migrants-guantanamo-costs.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/us/politics/migrants-guantanamo-costs.html on URL https://www.nytimes.com/2025/03/31/us/politics/migrants-guantanamo-costs.html
+2025-04-01 22:03:32,446 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/europe/marine-le-pen-embezzelment-democracy.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/europe/marine-le-pen-embezzelment-democracy.html on URL https://www.nytimes.com/2025/03/31/world/europe/marine-le-pen-embezzelment-democracy.html
+2025-04-01 22:03:33,547 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/europe/prince-harry-charity-dispute-harassment.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/europe/prince-harry-charity-dispute-harassment.html on URL https://www.nytimes.com/2025/03/31/world/europe/prince-harry-charity-dispute-harassment.html
+2025-04-01 22:03:33,754 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/climate/greenpeace-energy-transfer-dakota-access-defamation-verdict.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/climate/greenpeace-energy-transfer-dakota-access-defamation-verdict.html on URL https://www.nytimes.com/2025/03/31/climate/greenpeace-energy-transfer-dakota-access-defamation-verdict.html
+2025-04-01 22:03:33,948 - ERROR - Error processing RSS article https://www.nytimes.com/article/marine-le-pen-embezzlement-france.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/article/marine-le-pen-embezzlement-france.html on URL https://www.nytimes.com/article/marine-le-pen-embezzlement-france.html
+2025-04-01 22:03:34,298 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/insider/cambodia-money-laundering-huione.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/insider/cambodia-money-laundering-huione.html on URL https://www.nytimes.com/2025/03/31/insider/cambodia-money-laundering-huione.html
+2025-04-01 22:03:34,466 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/asia/collapsed-bangkok-building-rescue-earthquake.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/asia/collapsed-bangkok-building-rescue-earthquake.html on URL https://www.nytimes.com/2025/03/31/world/asia/collapsed-bangkok-building-rescue-earthquake.html
+2025-04-01 22:03:34,639 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/europe/putin-trump-russia-ukraine.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/europe/putin-trump-russia-ukraine.html on URL https://www.nytimes.com/2025/03/31/world/europe/putin-trump-russia-ukraine.html
+2025-04-01 22:03:35,019 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/asia/myanmar-earthquake-rescue.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/asia/myanmar-earthquake-rescue.html on URL https://www.nytimes.com/2025/03/31/world/asia/myanmar-earthquake-rescue.html
+2025-04-01 22:03:35,224 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/asia/afghanistan-refugees-pakistan-deportation.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/asia/afghanistan-refugees-pakistan-deportation.html on URL https://www.nytimes.com/2025/03/31/world/asia/afghanistan-refugees-pakistan-deportation.html
+2025-04-01 22:03:35,533 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/middleeast/gaza-israel-rafah-evacuation-order.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/middleeast/gaza-israel-rafah-evacuation-order.html on URL https://www.nytimes.com/2025/03/31/world/middleeast/gaza-israel-rafah-evacuation-order.html
+2025-04-01 22:03:35,843 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/europe/france-marine-le-pen-embezzlement-2027-election-ban.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/europe/france-marine-le-pen-embezzlement-2027-election-ban.html on URL https://www.nytimes.com/2025/03/31/world/europe/france-marine-le-pen-embezzlement-2027-election-ban.html
+2025-04-01 22:03:36,525 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/europe/nato-baltic-sentry-russia.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/europe/nato-baltic-sentry-russia.html on URL https://www.nytimes.com/2025/03/31/world/europe/nato-baltic-sentry-russia.html
+2025-04-01 22:03:37,318 - INFO - Scraped RSS article: A Mystery in the Baltic Sea (Categories: world)
+2025-04-01 22:03:37,583 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/europe/lithuania-us-army-soldiers-swamp.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/europe/lithuania-us-army-soldiers-swamp.html on URL https://www.nytimes.com/2025/03/31/world/europe/lithuania-us-army-soldiers-swamp.html
+2025-04-01 22:03:38,024 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/middleeast/israel-netanyahu-shin-bet.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/middleeast/israel-netanyahu-shin-bet.html on URL https://www.nytimes.com/2025/03/31/world/middleeast/israel-netanyahu-shin-bet.html
+2025-04-01 22:03:38,305 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/briefing/myanmar-quake-ukraine.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/briefing/myanmar-quake-ukraine.html on URL https://www.nytimes.com/2025/03/31/briefing/myanmar-quake-ukraine.html
+2025-04-01 22:03:38,511 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/trump-foreign-policy-trust.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/trump-foreign-policy-trust.html on URL https://www.nytimes.com/2025/03/31/world/trump-foreign-policy-trust.html
+2025-04-01 22:03:38,843 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/africa/zimbabwe-demonstrations-mnangagwa.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/africa/zimbabwe-demonstrations-mnangagwa.html on URL https://www.nytimes.com/2025/03/31/world/africa/zimbabwe-demonstrations-mnangagwa.html
+2025-04-01 22:03:40,057 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/31/world/europe/italy-meloni-trump-europe-tensions.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/31/world/europe/italy-meloni-trump-europe-tensions.html on URL https://www.nytimes.com/2025/03/31/world/europe/italy-meloni-trump-europe-tensions.html
+2025-04-01 22:03:40,290 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/30/us/trump-third-term.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/30/us/trump-third-term.html on URL https://www.nytimes.com/2025/03/30/us/trump-third-term.html
+2025-04-01 22:03:40,777 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/30/world/europe/london-quaker-arrests-gaza.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/30/world/europe/london-quaker-arrests-gaza.html on URL https://www.nytimes.com/2025/03/30/world/europe/london-quaker-arrests-gaza.html
+2025-04-01 22:03:41,081 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/30/briefing/myanmar-earthquake-ukraine-war-secrets-syria-government.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/30/briefing/myanmar-earthquake-ukraine-war-secrets-syria-government.html on URL https://www.nytimes.com/2025/03/30/briefing/myanmar-earthquake-ukraine-war-secrets-syria-government.html
+2025-04-01 22:03:41,763 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/30/world/asia/myanmar-earthquake-usaid-cuts.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/30/world/asia/myanmar-earthquake-usaid-cuts.html on URL https://www.nytimes.com/2025/03/30/world/asia/myanmar-earthquake-usaid-cuts.html
+2025-04-01 22:03:42,009 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/30/world/asia/gananath-obeyesekere-dead.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/30/world/asia/gananath-obeyesekere-dead.html on URL https://www.nytimes.com/2025/03/30/world/asia/gananath-obeyesekere-dead.html
+2025-04-01 22:03:42,312 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/30/world/europe/le-pen-embezzlement-trial-france-election.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/30/world/europe/le-pen-embezzlement-trial-france-election.html on URL https://www.nytimes.com/2025/03/30/world/europe/le-pen-embezzlement-trial-france-election.html
+2025-04-01 22:03:42,629 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/30/world/asia/hegseth-japan-military.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/30/world/asia/hegseth-japan-military.html on URL https://www.nytimes.com/2025/03/30/world/asia/hegseth-japan-military.html
+2025-04-01 22:03:42,933 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/30/world/europe/prince-harry-accused-bullying-charity.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/30/world/europe/prince-harry-accused-bullying-charity.html on URL https://www.nytimes.com/2025/03/30/world/europe/prince-harry-accused-bullying-charity.html
+2025-04-01 22:03:43,344 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/30/world/middleeast/israel-hamas-ceasefire-gaza.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/30/world/middleeast/israel-hamas-ceasefire-gaza.html on URL https://www.nytimes.com/2025/03/30/world/middleeast/israel-hamas-ceasefire-gaza.html
+2025-04-01 22:03:44,225 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/30/world/middleeast/syria-new-transitional-government.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/30/world/middleeast/syria-new-transitional-government.html on URL https://www.nytimes.com/2025/03/30/world/middleeast/syria-new-transitional-government.html
+2025-04-01 22:03:44,473 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/30/world/asia/myanmar-earthquake-aftershocks-airstrikes.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/30/world/asia/myanmar-earthquake-aftershocks-airstrikes.html on URL https://www.nytimes.com/2025/03/30/world/asia/myanmar-earthquake-aftershocks-airstrikes.html
+2025-04-01 22:03:44,675 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/30/world/asia/earthquake-bangkok-building-safety.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/30/world/asia/earthquake-bangkok-building-safety.html on URL https://www.nytimes.com/2025/03/30/world/asia/earthquake-bangkok-building-safety.html
+2025-04-01 22:03:44,885 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/30/world/asia/afghanistan-students-qatar-funding.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/30/world/asia/afghanistan-students-qatar-funding.html on URL https://www.nytimes.com/2025/03/30/world/asia/afghanistan-students-qatar-funding.html
+2025-04-01 22:03:45,051 - ERROR - Error processing RSS article https://www.nytimes.com/2025/03/30/world/europe/us-ukraine-military-war-takeaways.html: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/03/30/world/europe/us-ukraine-military-war-takeaways.html on URL https://www.nytimes.com/2025/03/30/world/europe/us-ukraine-military-war-takeaways.html
+2025-04-01 22:03:45,061 - INFO - Successfully scraped 1 articles from NYTimes
+2025-04-01 22:03:45,061 - INFO - Scraping TechCrunch from https://techcrunch.com/feed/
+2025-04-01 22:03:46,580 - INFO - Scraped RSS article: Someone is trying to recruit security researchers in bizarre hacking campaign (Categories: technology, politics)
+2025-04-01 22:03:47,142 - INFO - Scraped RSS article: Sam Altman says that OpenAI’s capacity issues will cause product delays (Categories: technology, business)
+2025-04-01 22:03:48,514 - INFO - Scraped RSS article: Roblox partners with Google on ads (Categories: technology)
+2025-04-01 22:03:49,231 - INFO - Scraped RSS article: NaNoWriMo shut down after AI, content moderation scandals (Categories: technology)
+2025-04-01 22:03:49,972 - INFO - Scraped RSS article: Qualcomm acquires generative AI division of Vietnamese startup VinAI (Categories: science, technology, business)
+2025-04-01 22:03:50,702 - INFO - Scraped RSS article: Meet Ponte Labor, a startup matching Hispanic immigrants to jobs using WhatsApp (Categories: technology, business)
+2025-04-01 22:03:51,359 - INFO - Scraped RSS article: Beagle has a new long-range drone with more than one application (Categories: technology, business)
+2025-04-01 22:03:51,995 - INFO - Scraped RSS article: Tinder’s new AI-powered game assesses your flirting skills (Categories: sports, technology)
+2025-04-01 22:03:52,477 - INFO - Scraped RSS article: ChatGPT isn’t the only chatbot that’s gaining users (Categories: technology)
+2025-04-01 22:03:52,993 - INFO - Scraped RSS article: Lip-Bu Tan says Intel will spin off noncore units (Categories: technology, business)
+2025-04-01 22:03:53,526 - INFO - Scraped RSS article: Ente wants to take on Google Photos with its privacy-first photo storage service (Categories: technology, business)
+2025-04-01 22:03:54,209 - INFO - Scraped RSS article: OpenAI’s new image generator is now available to all users (Categories: technology, business)
+2025-04-01 22:03:54,877 - INFO - Scraped RSS article: Construct Capital raises $300M fund for defense and manufacturing tech (Categories: technology)
+2025-04-01 22:03:55,498 - INFO - Scraped RSS article: Fashion startup CaaStle appears to be in trouble (Categories: technology, business)
+2025-04-01 22:03:56,107 - INFO - Scraped RSS article: OpenAI raises $40B at $300B post-money valuation (Categories: technology)
+2025-04-01 22:03:56,780 - INFO - Scraped RSS article: ChatGPT’s new image generator is really good at faking receipts (Categories: technology)
+2025-04-01 22:03:57,268 - INFO - Scraped RSS article: Alphabet’s AI drug discovery platform Isomorphic Labs raises $600M from Thrive (Categories: health, technology, science)
+2025-04-01 22:03:57,786 - INFO - Scraped RSS article: Hillary Clinton joins Bluesky (Categories: technology, politics)
+2025-04-01 22:03:58,265 - INFO - Scraped RSS article: OpenAI plans to release a new ‘open’ AI language model in the coming months (Categories: technology)
+2025-04-01 22:03:58,793 - INFO - Scraped RSS article: Some Alexa+ features reportedly won’t arrive for months (Categories: technology)
+2025-04-01 22:03:58,834 - INFO - Successfully scraped 10 articles from TechCrunch
+2025-04-01 22:03:58,834 - INFO - Scraping ESPN from https://www.espn.com/espn/rss/news
+2025-04-01 22:04:01,386 - INFO - Scraped RSS article: 'No one was on the same page': Inside the Grizzlies' shocking firing of Taylor Jenkins (Categories: entertainment, technology, science, sports, world, business)
+2025-04-01 22:04:02,765 - INFO - Scraped RSS article: NBA coaching carousel: What's next for the Grizzlies and Kings jobs? (Categories: sports, technology)
+2025-04-01 22:04:03,975 - INFO - Scraped RSS article: Rooney: 'Positive' signs on Rodgers to Steelers (Categories: sports, technology)
+2025-04-01 22:04:05,451 - INFO - Scraped RSS article: Niners owner: Exodus partly tied to paying Purdy (Categories: sports, technology)
+2025-04-01 22:04:06,563 - INFO - Scraped RSS article: LaFleur: If Rodgers to Vikings, 'hell of a story' (Categories: sports, technology)
+2025-04-01 22:04:07,658 - INFO - Scraped RSS article: Messi's bodyguard banned from MLS sidelines (Categories: sports)
+2025-04-01 22:04:08,858 - INFO - Scraped RSS article: NFL owners OK kickoff, OT, replay rule changes (Categories: sports, technology)
+2025-04-01 22:04:10,041 - INFO - Scraped RSS article: NFL owners table voting on tush push ban pitch (Categories: sports)
+2025-04-01 22:04:11,182 - INFO - Scraped RSS article: Hunter an option for Giants at No. 3, Daboll says (Categories: sports, technology)
+2025-04-01 22:04:12,421 - INFO - Scraped RSS article: With torpedo bat, De La Cruz has 7 RBIs for Reds (Categories: sports, technology)
+2025-04-01 22:04:14,796 - INFO - Scraped RSS article: Our annual mock draft with 32 first-round trades: Deals for Kirk Cousins, Micah Parsons (Categories: entertainment, technology, science, sports, world, business, politics)
+2025-04-01 22:04:15,915 - INFO - Scraped RSS article: What's going on with Rafael Devers? Putting his historic strikeout streak into context (Categories: sports, entertainment, technology)
+2025-04-01 22:04:17,039 - INFO - Scraped RSS article: An MIT-educated professor, the New York Yankees and the bat that could be changing baseball (Categories: sports, technology)
+2025-04-01 22:04:18,323 - INFO - Scraped RSS article: NHL playoff watch: Will the Capitals or Jets win the Presidents' Trophy? (Categories: sports, technology, politics)
+2025-04-01 22:04:19,978 - INFO - Scraped RSS article: Pain Index: Where do Arkansas, Purdue, other second-weekend losses rank? (Categories: sports, entertainment, world, technology)
+2025-04-01 22:04:21,096 - INFO - Scraped RSS article: 'The whole thing is chaos': The art of the March Madness buzzer-beater (Categories: sports, technology)
+2025-04-01 22:04:22,311 - INFO - Scraped RSS article: Women's Final Four predictions: A unanimous favorite and a split decision (Categories: sports, entertainment, world, technology)
+2025-04-01 22:04:23,389 - INFO - Scraped RSS article: Reranking the women's Final Four: First look at the national semifinals (Categories: sports, world, technology)
+2025-04-01 22:04:24,548 - INFO - Scraped RSS article: How Premier League teams can qualify for Champions League, Europe this season (Categories: sports, technology)
+2025-04-01 22:04:25,715 - INFO - Scraped RSS article: Haaland could miss seven weeks - Guardiola (Categories: sports, technology)
+2025-04-01 22:04:27,047 - INFO - Scraped RSS article: Flick: No luck to Barcelona success this season (Categories: sports, world, technology)
+2025-04-01 22:04:28,197 - INFO - Scraped RSS article: Liverpool not affected by Trent speculation - Slot (Categories: sports)
+2025-04-01 22:04:29,339 - INFO - Scraped RSS article: Fernandes 'going nowhere this summer' - Amorim (Categories: sports)
+2025-04-01 22:04:30,455 - INFO - Scraped RSS article: Rooney considered leaving Man Utd for Barcelona (Categories: sports)
+2025-04-01 22:04:31,701 - INFO - Scraped RSS article: Women's team sale pads £128.4m Chelsea profit (Categories: sports, business)
+2025-04-01 22:04:32,731 - INFO - Scraped RSS article: Las Palmas GK undergoes perforated bowel op (Categories: sports)
+2025-04-01 22:04:33,797 - INFO - Scraped RSS article: Wrexham revenue up 155% amid promotion push (Categories: sports, entertainment)
+2025-04-01 22:04:35,029 - INFO - Scraped RSS article: 2025 rankings: Profiles for more than 40 RBs (Categories: entertainment, technology, sports, world, politics)
+2025-04-01 22:04:36,220 - INFO - Scraped RSS article: Waiting on Roman Anthony and other prospect news (Categories: sports, entertainment, technology)
+2025-04-01 22:04:37,015 - INFO - Scraped RSS article: Like father, like son: Boozer twins, Anthony lead wave of legacy talent in major hoops week (Categories: sports, entertainment, world)
+2025-04-01 22:04:38,346 - INFO - Scraped RSS article: After Olympics controversy, Jordan Chiles is 'That Girl' leading UCLA to NCAAs (Categories: sports, entertainment, world, technology)
+2025-04-01 22:04:39,731 - INFO - Scraped RSS article: Which team takes the top spot after Week 8? (Categories: sports, technology)
+2025-04-01 22:04:40,886 - INFO - Scraped RSS article: Defenders corral Stallions, RBs start fast (Categories: sports, technology)
+2025-04-01 22:04:41,995 - INFO - Scraped RSS article: Men's Final Four predictions, previews for Auburn-Florida, Duke-Houston (Categories: sports, entertainment, world, technology)
+2025-04-01 22:04:43,166 - INFO - Scraped RSS article: Two weeks left in the NBA season! Answering the biggest questions (Categories: sports, entertainment, technology)
+2025-04-01 22:04:43,788 - INFO - Scraped RSS article: NBA play-in tournament 2025: Schedule, standings, format (Categories: sports, world)
+2025-04-01 22:04:44,930 - INFO - Scraped RSS article: Messi, Brady, Shaq turn out for Beckham's 50th birthday party in Miami (Categories: sports)
+2025-04-01 22:04:46,027 - INFO - Scraped RSS article: Letting Salah leave for free could be one of Liverpool's biggest mistakes ever (Categories: sports, world, technology)
+2025-04-01 22:04:47,213 - INFO - Scraped RSS article: Transfer rumors, news: Arsenal eyeing summer move for Leroy Sané (Categories: sports, world, technology)
+2025-04-01 22:04:48,280 - INFO - Scraped RSS article: Can U.S. figure skating carry this momentum to the Olympics? (Categories: sports, entertainment, world, technology)
+2025-04-01 22:04:49,597 - INFO - Scraped RSS article: Adrian Peterson, Antonio Gates take center stage in Madden NFL 25 Season 7 (Categories: sports)
+2025-04-01 22:04:49,641 - INFO - Successfully scraped 10 articles from ESPN
+2025-04-01 22:04:49,641 - INFO - Scraping BBC Technology from http://feeds.bbci.co.uk/news/technology/rss.xml
+2025-04-01 22:04:52,079 - INFO - Scraped RSS article: Screen time in bed linked to worse sleep, study finds (Categories: technology, science)
+2025-04-01 22:04:52,554 - INFO - Scraped RSS article: Could TikTok be banned again and who might buy it? (Categories: business, technology, politics)
+2025-04-01 22:04:53,125 - INFO - Scraped RSS article: Kink and LGBT dating apps exposed 1.5m private user images online (Categories: technology)
+2025-04-01 22:04:53,125 - INFO - Skipping older article: Musk's xAI buys his social media platform X
+2025-04-01 22:04:53,125 - INFO - Skipping older article: Amateur photographers hope to fix Wikipedia's 'terrible' pictures
+2025-04-01 22:04:53,125 - INFO - Skipping older article: Center Parcs removes X account from website after fake account set up
+2025-04-01 22:04:53,125 - INFO - Skipping older article: 'UK crowds are the best': Does home advantage make a difference in esports?
+2025-04-01 22:04:53,125 - INFO - Skipping older article: Assassin's Creed maker gets $1.25bn Chinese investment
+2025-04-01 22:04:53,125 - INFO - Skipping older article: China tariffs may be cut to seal TikTok sale, Trump says
+2025-04-01 22:04:53,126 - INFO - Skipping older article: NHS software provider fined £3m over data breach after ransomware attack
+2025-04-01 22:04:53,126 - INFO - Skipping older article: Atomfall: How a forgotten nuclear disaster inspired a video game
+2025-04-01 22:04:53,126 - INFO - Skipping older article: H&M to use digital clones of models in ads and social media
+2025-04-01 22:04:53,126 - INFO - Skipping older article: Social media ban not practical or effective, teens say
+2025-04-01 22:04:53,126 - INFO - Skipping older article: 23andMe users struggle to delete their highly sensitive data
+2025-04-01 22:04:53,126 - INFO - Skipping older article: Chinese electric carmaker BYD sales beat Tesla
+2025-04-01 22:04:53,126 - INFO - Skipping older article: Honest or unrealistic? Roblox boss's online safety advice sparks debate
+2025-04-01 22:04:53,126 - INFO - Skipping older article: Uber offers 20 hours of free childcare in bid to lure female drivers
+2025-04-01 22:04:53,127 - INFO - Skipping older article: 'Chubby filter' pulled from TikTok after user backlash
+2025-04-01 22:04:53,127 - INFO - Skipping older article: Google agrees to pay $28m in racial bias lawsuit
+2025-04-01 22:04:53,127 - INFO - Skipping older article: Subsea fibre cables can 'listen out' for sabotage
+2025-04-01 22:04:53,127 - INFO - Skipping older article: Shut vile death video site, families say, as Ofcom gets new powers
+2025-04-01 22:04:53,127 - INFO - Skipping older article: Telegram founder allowed to leave France following arrest
+2025-04-01 22:04:53,127 - INFO - Skipping older article: Apple encrypted data row hearing begins in secret
+2025-04-01 22:04:53,127 - INFO - Skipping older article: It's not a competition! The collaborative video game loved by players
+2025-04-01 22:04:53,127 - INFO - Skipping older article: Two judges order Trump administration to give fired workers their jobs back
+2025-04-01 22:04:53,127 - INFO - Skipping older article: Saudi Investment Fund pays $3.5bn to capture Pokémon Go
+2025-04-01 22:04:53,128 - INFO - Skipping older article: US tech firms feel pinch from China tariffs
+2025-04-01 22:04:53,128 - INFO - Skipping older article: Keep kids off Roblox if you're worried, its CEO tells parents
+2025-04-01 22:04:53,128 - INFO - Skipping older article: 'Huawei lobbyists' held in Belgium raids over EU corruption
+2025-04-01 22:04:53,128 - INFO - Skipping older article: Global smartwatch sales fall for first time
+2025-04-01 22:04:53,128 - INFO - Skipping older article: Google Chromecast users' fury at second day of TV streaming issue
+2025-04-01 22:04:53,128 - INFO - Skipping older article: From chatbots to intelligent toys: How AI is booming in China
+2025-04-01 22:04:53,128 - INFO - Skipping older article: Tech Now
+2025-04-01 22:04:53,128 - INFO - Skipping older article: Tech Life
+2025-04-01 22:04:53,129 - INFO - Skipping older article: Click
+2025-04-01 22:04:53,129 - INFO - Skipping older article: Tech Life
+2025-04-01 22:04:53,129 - INFO - Skipping older article: Tech Life
+2025-04-01 22:04:53,129 - INFO - Skipping older article: Tech Life
+2025-04-01 22:04:53,129 - INFO - Skipping older article: Watch: A real-life flying car takes to the skies
+2025-04-01 22:04:53,129 - INFO - Skipping older article: What's next for social media?
+2025-04-01 22:04:53,129 - INFO - Skipping older article: Tech Life: Living life with a mind-reading chip
+2025-04-01 22:04:53,129 - INFO - Skipping older article: The slow but steady advance of driverless vehicles
+2025-04-01 22:04:53,129 - INFO - Skipping older article: Disasters spur investment in flood and fire risk tech
+2025-04-01 22:04:53,130 - INFO - Skipping older article: Can AI help modernise Ireland's healthcare system?
+2025-04-01 22:04:53,130 - INFO - Skipping older article: Countries compete to keep skilled young workers
+2025-04-01 22:04:53,130 - INFO - Skipping older article: Will quantum computers disrupt critical infrastructure?
+2025-04-01 22:04:53,130 - INFO - Skipping older article: Hair: 'It’s just thrown away but it's gold'
+2025-04-01 22:04:53,130 - INFO - Skipping older article: Why do kindness influencers get criticised?
+2025-04-01 22:04:53,130 - INFO - Skipping older article: Why employees smuggle AI into work
+2025-04-01 22:04:53,130 - INFO - Skipping older article: Leaving X can be a tricky decision for brands
+2025-04-01 22:04:53,131 - INFO - Skipping older article: Will young developers take on key open source software?
+2025-04-01 22:04:53,131 - INFO - Skipping older article: GPs turn to AI to help with patient workload
+2025-04-01 22:04:53,131 - INFO - Skipping older article: How AI uncovers new ways to tackle difficult diseases
+2025-04-01 22:04:53,144 - INFO - Successfully scraped 3 articles from BBC Technology
+2025-04-01 22:04:53,144 - INFO - Scraping BBC Business from http://feeds.bbci.co.uk/news/business/rss.xml
+2025-04-01 22:04:55,191 - INFO - Scraped RSS article: Car firms fined for withholding recycling information (Categories: business)
+2025-04-01 22:04:56,448 - INFO - Scraped RSS article: Warning bill rises hit single parents hardest (Categories: entertainment, world, technology, business)
+2025-04-01 22:04:56,952 - INFO - Scraped RSS article: What you can do about the seven bills going up this week (Categories: technology, politics, business, entertainment)
+2025-04-01 22:04:57,511 - INFO - Scraped RSS article: Investigation launched into UK's statistics agency (Categories: technology, business)
+2025-04-01 22:04:58,082 - INFO - Scraped RSS article: The Finnish defence firms 'on steroids' (Categories: entertainment, technology, science, world, business, politics)
+2025-04-01 22:04:58,783 - INFO - Scraped RSS article: Six things that could get more expensive for Americans under Trump tariffs (Categories: world, technology, business)
+2025-04-01 22:04:59,278 - INFO - Scraped RSS article: Three ways to cushion the blow of bill rises (Categories: technology, business)
+2025-04-01 22:05:00,869 - INFO - Scraped RSS article: UK will take calm approach to US tariffs, PM says (Categories: technology, world, politics, business)
+2025-04-01 22:05:01,327 - INFO - Scraped RSS article: Hooters restaurant chain files for bankruptcy (Categories: business)
+2025-04-01 22:05:01,800 - INFO - Scraped RSS article: UK expects to be hit by Trump tariffs, No 10 says (Categories: technology, world, politics, business)
+2025-04-01 22:05:02,455 - INFO - Scraped RSS article: Primark boss quits after woman complains about his behaviour (Categories: technology, business)
+2025-04-01 22:05:03,060 - INFO - Scraped RSS article: Plan to raise protection on savings to £110,000 (Categories: technology, politics, business)
+2025-04-01 22:05:03,680 - INFO - Scraped RSS article: Thames Water picks private equity firm as preferred buyer (Categories: technology, business)
+2025-04-01 22:05:04,628 - INFO - Scraped RSS article: Markets mixed as investors brace for Trump tariffs (Categories: world, technology, business)
+2025-04-01 22:05:05,103 - INFO - Scraped RSS article: Half of job centres reducing support over shortages (Categories: sports, technology, politics, business)
+2025-04-01 22:05:05,625 - INFO - Scraped RSS article: Car finance case could spark billions in driver payouts (Categories: technology, business)
+2025-04-01 22:05:06,205 - INFO - Scraped RSS article: Trump says he 'couldn't care less' about higher car prices (Categories: technology, world, politics, business)
+2025-04-01 22:05:06,916 - INFO - Scraped RSS article: 'Greedy landlords are cashing in and forcing us out of town' (Categories: technology, politics, business)
+2025-04-01 22:05:08,365 - INFO - Scraped RSS article: The US firms backing Trump's fight over trade (Categories: technology, world, politics, business)
+2025-04-01 22:05:08,367 - INFO - Skipping older article: Millions give less to charity as bills rise
+2025-04-01 22:05:08,367 - INFO - Skipping older article: Musk's xAI buys his social media platform X
+2025-04-01 22:05:08,367 - INFO - Skipping older article: 'We're hoping our £1,200 mortgage deal could fall'
+2025-04-01 22:05:08,367 - INFO - Skipping older article: WH Smith name to disappear from High Street after sale
+2025-04-01 22:05:08,367 - INFO - Skipping older article: UK car firms urge help as Trump tariffs loom
+2025-04-01 22:05:08,367 - INFO - Skipping older article: Musk says Tesla not immune from tariffs as car firms hit
+2025-04-01 22:05:08,367 - INFO - Skipping older article: What's next for social media?
+2025-04-01 22:05:08,860 - INFO - Scraped RSS article: The Swedish city fined for missing an environmental target (Categories: science, technology, business)
+2025-04-01 22:05:09,401 - INFO - Scraped RSS article: Could electric drones you can sit in take off? (Categories: technology, business)
+2025-04-01 22:05:10,641 - INFO - Scraped RSS article: 'No fuss, no surprises': Shoppers defend supermarket cafes amid closures (Categories: technology, business)
+2025-04-01 22:05:10,641 - INFO - Skipping older article: 'It's going to get worse': US car buyers brace for sweeping auto tariffs
+2025-04-01 22:05:10,641 - INFO - Skipping older article: Can Vietnam golf its way out of new Trump tariffs?
+2025-04-01 22:05:10,641 - INFO - Skipping older article: Why are tech stocks so volatile?
+2025-04-01 22:05:10,642 - INFO - Skipping older article: Bitcoin in the bush - the crypto mine in remote Zambia
+2025-04-01 22:05:10,642 - INFO - Skipping older article: What makes a rum Jamaican? Question at heart of Caribbean legal dispute
+2025-04-01 22:05:10,642 - INFO - Skipping older article: How did a single fire bring down Europe's busiest airport?
+2025-04-01 22:05:10,642 - INFO - Skipping older article: The slow but steady advance of driverless vehicles
+2025-04-01 22:05:10,642 - INFO - Skipping older article: Why Elon Musk's Grok is kicking up a storm in India
+2025-04-01 22:05:11,413 - INFO - Scraped RSS article: Why are bills going up? Your questions answered (Categories: technology, world, politics, business)
+2025-04-01 22:05:11,787 - INFO - Scraped RSS article: Family leaves London to avoid April cost increases (Categories: business)
+2025-04-01 22:05:12,921 - INFO - Scraped RSS article: Warning bill rises hit single parents hardest (Categories: entertainment, world, technology, business)
+2025-04-01 22:05:14,052 - INFO - Scraped RSS article: What is NI and how is it changing? (Categories: business)
+2025-04-01 22:05:14,739 - INFO - Scraped RSS article: How much is the state pension going up? (Categories: business)
+2025-04-01 22:05:14,739 - INFO - Skipping older article: David Dimbleby: I thought the free market was with us forever - then Trump came along
+2025-04-01 22:05:14,739 - INFO - Skipping older article: Rachel Reeves is feeling the heat ahead of her Spring Statement
+2025-04-01 22:05:14,739 - INFO - Skipping older article: Tesla's challenges run deeper than 'toxic' controversy around Elon Musk
+2025-04-01 22:05:14,739 - INFO - Skipping older article: The debate: Do Trump's tariffs mean the end of the post-war free trade world?
+2025-04-01 22:05:14,739 - INFO - Skipping older article: The tariff wars have begun - buckle up
+2025-04-01 22:05:14,739 - INFO - Skipping older article: Free Thinking
+2025-04-01 22:05:14,740 - INFO - Skipping older article: The Bottom Line
+2025-04-01 22:05:14,740 - INFO - Skipping older article: BBC Verify: How did Rachel Reeves make her sums add up?
+2025-04-01 22:05:14,740 - INFO - Skipping older article: First and deputy first ministers hit out at Reeves' Spring Statement
+2025-04-01 22:05:14,792 - INFO - Successfully scraped 10 articles from BBC Business
+2025-04-01 22:05:14,792 - INFO - Scraping BBC Health from http://feeds.bbci.co.uk/news/health/rss.xml
+2025-04-01 22:05:17,838 - INFO - Scraped RSS article: NHS billions wasted as bipolar patients left 'forgotten and failed' (Categories: world, health, technology)
+2025-04-01 22:05:18,265 - INFO - Scraped RSS article: Protests postponed after pharmacy funding boost (Categories: world, health, technology, politics)
+2025-04-01 22:05:18,811 - INFO - Scraped RSS article: Alarms, overdoses and saving lives: Two days in UK's first drug injection room (Categories: health, technology, science)
+2025-04-01 22:05:19,645 - INFO - Scraped RSS article: Morning-after pill to be made free at pharmacies in England (Categories: health, technology, politics)
+2025-04-01 22:05:19,645 - INFO - Skipping older article: 'I had to use a goods lift to go for an abortion'
+2025-04-01 22:05:20,179 - INFO - Scraped RSS article: Are my braids doing more harm than good? (Categories: health, technology, science)
+2025-04-01 22:05:20,179 - INFO - Skipping older article: 'I fear I'll be dead before I get justice for my son'
+2025-04-01 22:05:20,179 - INFO - Skipping older article: Doctor 'betrayed' over son's death at her hospital
+2025-04-01 22:05:20,179 - INFO - Skipping older article: Baby slings unsafe for hands-free feeding, charities warn
+2025-04-01 22:05:20,180 - INFO - Skipping older article: Fake £4m Xanax drug gang boss jailed
+2025-04-01 22:05:20,180 - INFO - Skipping older article: Baby deaths trust claimed £2m 'good care' payments
+2025-04-01 22:05:20,180 - INFO - Skipping older article: Fertility patients sold unproven add-ons, HFEA says
+2025-04-01 22:05:20,180 - INFO - Skipping older article: UK draws up new disease-threat watch list
+2025-04-01 22:05:20,180 - INFO - Skipping older article: What are the Pip and universal credit changes and who is affected?
+2025-04-01 22:05:20,180 - INFO - Skipping older article: Who are the millions of Britons not working?
+2025-04-01 22:05:20,180 - INFO - Skipping older article: Who can get an NHS Covid booster this spring?
+2025-04-01 22:05:20,180 - INFO - Skipping older article: Scans in shopping centres and AI - can ideas like these help save the NHS?
+2025-04-01 22:05:20,180 - INFO - Skipping older article: First case of bird flu in sheep found on UK farm
+2025-04-01 22:05:20,180 - INFO - Skipping older article: What is assisted dying and how could the law change?
+2025-04-01 22:05:20,180 - INFO - Skipping older article: DNA testing site 23andMe files for bankruptcy protection
+2025-04-01 22:05:20,181 - INFO - Skipping older article: 'It's unforgivable': The problem at the heart of the NHS's maternity care failures
+2025-04-01 22:05:20,181 - INFO - Skipping older article: At-a-glance: Key changes to benefits in welfare shake-up
+2025-04-01 22:05:20,181 - INFO - Skipping older article: What does NHS England do? Your questions answered on health reforms
+2025-04-01 22:05:20,181 - INFO - Skipping older article: Men denied life-extending prostate cancer drug
+2025-04-01 22:05:20,181 - INFO - Skipping older article: Can LED face masks transform your skin - here's what the experts say
+2025-04-01 22:05:20,181 - INFO - Skipping older article: Victim records claims sickening - attacks families
+2025-04-01 22:05:20,181 - INFO - Skipping older article: Hancock criticises 'wholly naive' Covid inquiry
+2025-04-01 22:05:20,181 - INFO - Skipping older article: Mone accuses Covid inquiry of 'cover-up'
+2025-04-01 22:05:20,181 - INFO - Skipping older article: Michael Gove denies trying to circumvent Dyson ventilator checks
+2025-04-01 22:05:20,181 - INFO - Skipping older article: How does the Covid inquiry work?
+2025-04-01 22:05:20,181 - INFO - Skipping older article: Michelle Mone-linked PPE firm evidence to be heard in private
+2025-04-01 22:05:20,181 - INFO - Skipping older article: Large UK-wide pandemic preparedness tests planned this year
+2025-04-01 22:05:20,182 - INFO - Skipping older article: Families failed by Covid jabs tell inquiry of pain
+2025-04-01 22:05:20,182 - INFO - Skipping older article: NHS hours from PPE running out in Covid - Hancock
+2025-04-01 22:05:20,182 - INFO - Skipping older article: Covid inquiry told Treasury blocked NHS bed request
+2025-04-01 22:05:20,182 - INFO - Skipping older article: Covid inquiry told top NHS doctor was terrified
+2025-04-01 22:05:20,182 - INFO - Skipping older article: How close were hospitals to collapse in Covid?
+2025-04-01 22:05:20,182 - INFO - Skipping older article: Covid inquiry told of trust do-not-resuscitate rule
+2025-04-01 22:05:20,182 - INFO - Skipping older article: We were not treated as parents, Covid inquiry told
+2025-04-01 22:05:20,182 - INFO - Skipping older article: Covid ambulance crews faced 'crucial PPE delays'
+2025-04-01 22:05:20,182 - INFO - Skipping older article: Covid was like a daily terror attack, doctor tells inquiry
+2025-04-01 22:05:20,182 - INFO - Skipping older article: Covid inquiry rejects clinicians’ anonymity plea
+2025-04-01 22:05:20,182 - INFO - Skipping older article: Warning tax rises could force care homes to close
+2025-04-01 22:05:20,183 - INFO - Skipping older article: High-grade masks evidence weak, Covid inquiry told
+2025-04-01 22:05:20,183 - INFO - Skipping older article: Nurses bore the brunt of Covid, ex-chief nurse says
+2025-04-01 22:05:20,183 - INFO - Skipping older article: Labour's plan for benefits throws up a bigger dilemma
+2025-04-01 22:05:20,183 - INFO - Skipping older article: First place in British Isles set to approve right to die
+2025-04-01 22:05:20,183 - INFO - Skipping older article: Generation K: The disturbing rise of ketamine abuse among young people
+2025-04-01 22:05:20,183 - INFO - Skipping older article: Assisted dying bill: What is in proposed law?
+2025-04-01 22:05:20,183 - INFO - Skipping older article: 'My first cervical screening was over before I knew it'
+2025-04-01 22:05:20,183 - INFO - Skipping older article: How are the vaping rules changing?
+2025-04-01 22:05:20,183 - INFO - Skipping older article: Is the system letting down people who were harmed by Covid vaccines?
+2025-04-01 22:05:20,183 - INFO - Skipping older article: How will weight-loss drugs change our relationship with food?
+2025-04-01 22:05:20,183 - INFO - Skipping older article: NHS needs better plan around weight loss jabs, warn experts
+2025-04-01 22:05:20,183 - INFO - Skipping older article: How many of us will end up being diagnosed with ADHD?
+2025-04-01 22:05:20,183 - INFO - Skipping older article: The junior doctors' strikes may be over. But is trouble ahead?
+2025-04-01 22:05:20,184 - INFO - Skipping older article: Why we might never know the truth about ultra-processed foods
+2025-04-01 22:05:20,184 - INFO - Skipping older article: Are weight-loss injections the answer to obesity?
+2025-04-01 22:05:20,184 - INFO - Skipping older article: What is assisted dying and how could the law change?
+2025-04-01 22:05:20,184 - INFO - Skipping older article: Chris Hoy says men should talk about health issues more
+2025-04-01 22:05:20,184 - INFO - Skipping older article: Paris: Grassroots to Glory
+2025-04-01 22:05:20,184 - INFO - Skipping older article: Paris: Grassroots to Glory
+2025-04-01 22:05:20,184 - INFO - Skipping older article: How Dame Deborah James helped save a mum's life
+2025-04-01 22:05:20,184 - INFO - Skipping older article: Can health secretary name NHS trusts performing well?
+2025-04-01 22:05:20,184 - INFO - Skipping older article: 'I embrace my alopecia, but I’d love my old hair back’
+2025-04-01 22:05:20,209 - INFO - Successfully scraped 5 articles from BBC Health
+2025-04-01 22:05:20,209 - INFO - Scraping BBC Science from http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+2025-04-01 22:05:22,345 - INFO - Scraped RSS article: Record number of illegal sewage spills in Windermere last year (Categories: technology, business, politics, science)
+2025-04-01 22:05:22,838 - INFO - Scraped RSS article: The Swedish city fined for missing an environmental target (Categories: technology, science)
+2025-04-01 22:05:22,838 - INFO - Skipping older article: How to watch Saturday's partial solar eclipse
+2025-04-01 22:05:22,838 - INFO - Skipping older article: Has Just Stop Oil really stopped throwing soup?
+2025-04-01 22:05:22,838 - INFO - Skipping older article: England sewage spills hit record 3.6m hours last year
+2025-04-01 22:05:22,838 - INFO - Skipping older article: Fears 19th Century canal could start to run dry in days
+2025-04-01 22:05:22,838 - INFO - Skipping older article: Unique two-clawed dinosaur discovered
+2025-04-01 22:05:22,839 - INFO - Skipping older article: Archaeologists find 'unprecedented' Iron Age hoard
+2025-04-01 22:05:22,839 - INFO - Skipping older article: Schools and hospitals get £180m solar investment
+2025-04-01 22:05:22,839 - INFO - Skipping older article: Dark Energy experiment challenges Einstein's theory of Universe
+2025-04-01 22:05:22,839 - INFO - Skipping older article: Scientists at Antarctic base rocked by alleged assault
+2025-04-01 22:05:22,839 - INFO - Skipping older article: Small electric cars were said to be the future – but SUVs now rule the road
+2025-04-01 22:05:22,839 - INFO - Skipping older article: Thousands of high-risk toxic sites unchecked due to lack of cash
+2025-04-01 22:05:22,839 - INFO - Skipping older article: Lab-grown food could be sold in UK within two years
+2025-04-01 22:05:22,839 - INFO - Skipping older article: Toppled private spacecraft can't complete Moon mission
+2025-04-01 22:05:22,839 - INFO - Skipping older article: UK homes install subsidised heat pumps at record level
+2025-04-01 22:05:22,839 - INFO - Skipping older article: Scientists discover new part of the immune system
+2025-04-01 22:05:22,839 - INFO - Skipping older article: BBC travels out to 'blistered and burnt' oil tanker in North Sea
+2025-04-01 22:05:22,839 - INFO - Skipping older article: Woolly mice designed to engineer mammoth-like elephants
+2025-04-01 22:05:22,839 - INFO - Skipping older article: Astronauts Butch and Suni finally back on Earth
+2025-04-01 22:05:22,839 - INFO - Skipping older article: Why scientists are counting tiny marine creatures, from Space
+2025-04-01 22:05:22,840 - INFO - Skipping older article: Asteroid contains building blocks of life, say scientists
+2025-04-01 22:05:22,840 - INFO - Skipping older article: SpaceX Starship test fails after Texas launch
+2025-04-01 22:05:22,840 - INFO - Skipping older article: Rocket launch challenges Elon Musk's space dominance
+2025-04-01 22:05:22,840 - INFO - Skipping older article: Future of space travel: Could robots really replace human astronauts?
+2025-04-01 22:05:22,840 - INFO - Skipping older article: New study on moons of Uranus raises chance of life
+2025-04-01 22:05:24,235 - INFO - Scraped RSS article: Could electric drones you can sit in take off? (Categories: business, technology, science)
+2025-04-01 22:05:25,059 - INFO - Scraped RSS article: The Swedish city fined for missing an environmental target (Categories: technology, science)
+2025-04-01 22:05:25,059 - INFO - Skipping older article: Has Just Stop Oil really stopped throwing soup?
+2025-04-01 22:05:25,059 - INFO - Skipping older article: Schools and hospitals get £180m solar investment
+2025-04-01 22:05:25,059 - INFO - Skipping older article: New national forest to see 20m trees planted
+2025-04-01 22:05:25,059 - INFO - Skipping older article: Greenpeace ordered to pay more than $660m for defaming oil firm in protests
+2025-04-01 22:05:25,059 - INFO - Skipping older article: Net zero by 2050 'impossible' for UK, says Badenoch
+2025-04-01 22:05:25,059 - INFO - Skipping older article: What in the World
+2025-04-01 22:05:25,059 - INFO - Skipping older article: Astronauts Butch and Suni begin journey home after nine months in space
+2025-04-01 22:05:25,059 - INFO - Skipping older article: Beginnings of Roman London discovered in office basement
+2025-04-01 22:05:25,059 - INFO - Skipping older article: First glimpse inside burnt scroll after 2,000 years
+2025-04-01 22:05:25,059 - INFO - Skipping older article: Asteroid contains building blocks of life, say scientists
+2025-04-01 22:05:25,059 - INFO - Skipping older article: The unexpected knock-on effect of Trump's minerals 'deal of the century'
+2025-04-01 22:05:25,059 - INFO - Skipping older article: Planes are having their GPS hacked. Could new clocks keep them safe?
+2025-04-01 22:05:25,059 - INFO - Skipping older article: Nasa needs saving from itself – but is this billionaire right for that job?
+2025-04-01 22:05:25,059 - INFO - Skipping older article: Fatbergs turned into perfume - inside Britain's bizarre new industrial revolution
+2025-04-01 22:05:25,059 - INFO - Skipping older article: Why wildfires are becoming faster and more furious
+2025-04-01 22:05:25,060 - INFO - Skipping older article: BBC Inside Science
+2025-04-01 22:05:25,060 - INFO - Skipping older article: BBC Inside Science
+2025-04-01 22:05:25,060 - INFO - Skipping older article: BBC Inside Science
+2025-04-01 22:05:25,060 - INFO - Skipping older article: BBC Inside Science
+2025-04-01 22:05:25,075 - INFO - Successfully scraped 4 articles from BBC Science
+2025-04-01 22:05:25,075 - INFO - Scraping BBC Entertainment from http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+2025-04-01 22:05:27,364 - INFO - Scraped RSS article: Fab four stars revealed for major Beatles films (Categories: entertainment, technology)
+2025-04-01 22:05:27,811 - INFO - Scraped RSS article: Gary Glitter bankrupt after failing to pay victim damages (Categories: entertainment, technology)
+2025-04-01 22:05:28,701 - INFO - Scraped RSS article: Man who stalked Shirley Ballas for six years sentenced (Categories: entertainment, technology)
+2025-04-01 22:05:29,181 - INFO - Scraped RSS article: Harry charity engulfed by cash fears, insiders claim (Categories: entertainment, technology)
+2025-04-01 22:05:29,608 - INFO - Scraped RSS article: Ashley Cain visits dangerous cities for new series (Categories: entertainment, technology)
+2025-04-01 22:05:30,034 - INFO - Scraped RSS article: Adolescence hard to watch as a dad, Starmer tells creators (Categories: entertainment, technology, politics)
+2025-04-01 22:05:30,434 - INFO - Scraped RSS article: AI was enemy No. 1 during Hollywood strikes. Now it's in Oscar-winning films (Categories: entertainment, technology, business)
+2025-04-01 22:05:30,925 - INFO - Scraped RSS article: Korean star Kim Soo-Hyun denies accusations by late actress' family (Categories: entertainment, technology)
+2025-04-01 22:05:32,302 - INFO - Scraped RSS article: Richard Chamberlain, Shogun star, dies aged 90 (Categories: entertainment, technology)
+2025-04-01 22:05:34,432 - INFO - Scraped RSS article: Usher opens 10-night London residency, with mixed results (Categories: entertainment, technology)
+2025-04-01 22:05:35,200 - INFO - Scraped RSS article: Snow White, Rachel Zegler and a toxic debate that's not going away (Categories: entertainment, world, technology, politics)
+2025-04-01 22:05:36,099 - INFO - Scraped RSS article: Comedian dropped from hosting White House correspondents' dinner (Categories: entertainment, politics)
+2025-04-01 22:05:36,549 - INFO - Scraped RSS article: 'I've not heard of incel before': Teenager dissects Adolescence with his worried parents (Categories: entertainment, technology)
+2025-04-01 22:05:38,311 - INFO - Scraped RSS article: Rosco McClelland wins Billy Connolly comedy award (Categories: entertainment, world)
+2025-04-01 22:05:39,365 - INFO - Scraped RSS article: Has London's cultural scene recovered from Covid lockdown? (Categories: entertainment, technology, business)
+2025-04-01 22:05:39,908 - INFO - Scraped RSS article: A Minecraft Movie and Stranger Things star's new album: What's coming up this week (Categories: sports, entertainment, technology)
+2025-04-01 22:05:40,309 - INFO - Scraped RSS article: Love song to a city that moved John Peel to tears (Categories: entertainment, technology)
+2025-04-01 22:05:40,947 - INFO - Scraped RSS article: Richard Chamberlain: Heartthrob king of the TV mini-series (Categories: entertainment, world, health, technology)
+2025-04-01 22:05:40,948 - INFO - Skipping older article: Alex Warren was homeless and sleeping in friends' cars - now he's number one
+2025-04-01 22:05:40,948 - INFO - Skipping older article: Chappell Roan: 'There's a new path for girls breaking the rules'
+2025-04-01 22:05:41,399 - INFO - Scraped RSS article: 'Don't you drop that!': Ant & Dec join Newcastle players on parade (Categories: entertainment)
+2025-04-01 22:05:41,400 - INFO - Skipping older article: Moment BBC programme sparks memory of man with dementia
+2025-04-01 22:05:41,400 - INFO - Skipping older article: Watch: Prince William's surprise birthday wishes for Mary Berry
+2025-04-01 22:05:41,400 - INFO - Skipping older article: Watch: Conan O'Brien honoured at Trump-run Kennedy Center
+2025-04-01 22:05:41,444 - INFO - Successfully scraped 10 articles from BBC Entertainment
+2025-04-01 22:05:41,444 - INFO - Scraping AlJazeera from https://www.aljazeera.com/xml/rss/all.xml
+2025-04-01 22:05:43,040 - INFO - Scraped RSS article: Crete hit hardest among Greek islands battered by storms, flooding (Categories: general)
+2025-04-01 22:05:43,982 - INFO - Scraped RSS article: Russia’s Putin hosts Chinese Foreign Minister Wang for talks in Moscow (Categories: general, world, technology, politics)
+2025-04-01 22:05:44,816 - INFO - Scraped RSS article: Yemen chat leak: What does it tell us about Trump’s administration? (Categories: general)
+2025-04-01 22:05:45,452 - INFO - Scraped RSS article: Libya: A Voice for Reconciliation (Categories: general, world)
+2025-04-01 22:05:46,743 - INFO - Scraped RSS article: Yet another Israeli war crime is buried in the sand as the world looks away (Categories: technology, sports, world, health, general, politics)
+2025-04-01 22:05:47,885 - INFO - Scraped RSS article: At least 95 arrested in Zimbabwe after antigovernment protests (Categories: general, technology)
+2025-04-01 22:05:49,228 - INFO - Scraped RSS article: Trump’s April 2 ‘liberation day’ tariffs: What to expect, and what’s next (Categories: technology, world, business, general, politics)
+2025-04-01 22:05:50,472 - INFO - Scraped RSS article: Iceland volcano erupts, forcing tourists and residents to evacuate (Categories: general)
+2025-04-01 22:05:51,766 - INFO - Scraped RSS article: Finland joins other Russian neighbours exiting from landmine treaty (Categories: general, world, technology, politics)
+2025-04-01 22:05:52,892 - INFO - Scraped RSS article: Several killed as Israeli military bombs building in Beirut (Categories: general)
+2025-04-01 22:05:53,573 - INFO - Scraped RSS article: Ukraine working on minerals deal as US ceasefire bid grinds on (Categories: general, world, technology, politics)
+2025-04-01 22:05:54,930 - INFO - Scraped RSS article: Video: Video shows trapped survivors calling for help after Myanmar quake (Categories: general)
+2025-04-01 22:05:55,673 - INFO - Scraped RSS article: Is Harvard Trump’s new target, after Columbia? (Categories: technology, science, world, general, politics)
+2025-04-01 22:05:56,980 - INFO - Scraped RSS article: Devastating Myanmar earthquake seen as omen of military regime’s demise (Categories: general, world, technology)
+2025-04-01 22:05:58,215 - INFO - Scraped RSS article: How did Israel kill the Red Crescent medics in Gaza? (Categories: sports, general, world, technology)
+2025-04-01 22:05:59,567 - INFO - Scraped RSS article: Le Pen’s conviction in France: Career-ending or fuel for a new far right? (Categories: general, world, technology, politics)
+2025-04-01 22:06:00,352 - INFO - Scraped RSS article: Israeli air strike on Beirut raises concerns over shaky ceasefire (Categories: general, technology, politics)
+2025-04-01 22:06:01,585 - INFO - Scraped RSS article: African workers are taking on Meta and the world should pay attention (Categories: technology, world, business, general, politics)
+2025-04-01 22:06:02,425 - INFO - Scraped RSS article: Traditional US-EU alliance “certainly unravelling” (Categories: general)
+2025-04-01 22:06:04,191 - INFO - Scraped RSS article: Inside Syria’s prisons for women (Categories: general)
+2025-04-01 22:06:05,424 - INFO - Scraped RSS article: How dangerous are the tensions between the US and Iran? (Categories: general, world)
+2025-04-01 22:06:06,245 - INFO - Scraped RSS article: Israel’s Netanyahu reverses spy chief nomination amid US criticism (Categories: general, world, technology, politics)
+2025-04-01 22:06:07,071 - INFO - Scraped RSS article: EU has ‘strong plan’ to respond to Trump’s tariffs, bloc’s chief says (Categories: general, business, technology, politics)
+2025-04-01 22:06:08,261 - INFO - Scraped RSS article: Myanmar holds minute of silence as death toll from earthquake tops 2,700 (Categories: general, world, technology)
+2025-04-01 22:06:08,949 - INFO - Scraped RSS article: Video: China sends warships to surround Taiwan in invasion drill (Categories: general)
+2025-04-01 22:06:09,000 - INFO - Successfully scraped 10 articles from AlJazeera
+2025-04-01 22:06:09,001 - INFO - Scraping TheHindu from https://www.thehindu.com/news/feeder/default.rss
+2025-04-01 22:06:10,227 - INFO - Scraped RSS article: SUCI(C) stages protest against price hike (Categories: general, technology, politics)
+2025-04-01 22:06:10,660 - INFO - Scraped RSS article: Farmers stage protest seeking release of water into NLBC to save standing crops (Categories: general, technology)
+2025-04-01 22:06:11,037 - INFO - Scraped RSS article: 2,988 drugs were declared ‘substandard’ in West Bengal in 2024 (Categories: technology, health, business, general, politics)
+2025-04-01 22:06:11,427 - INFO - Scraped RSS article: Coimbatore court orders notice to Edappadi K. Palaniswami in criminal defamation case (Categories: general, technology)
+2025-04-01 22:06:11,884 - INFO - Scraped RSS article: ‘RSS, BJP doing everything to divide India by their assault on federalism and Constitution’ (Categories: general, world, technology, politics)
+2025-04-01 22:06:12,206 - INFO - Scraped RSS article: Yatnal’s ideology does not align with our party, says Satish Jarkiholi (Categories: general, politics)
+2025-04-01 22:06:12,537 - INFO - Scraped RSS article: SC upholds Piramal Capital’s DHFL resolution plan (Categories: general, technology, business)
+2025-04-01 22:06:13,146 - INFO - Scraped RSS article: PUCL claims killing of gangster by Madurai City Police is a fake encounter (Categories: general, technology)
+2025-04-01 22:06:13,578 - INFO - Scraped RSS article: Textile mills demand removal of network charges for rooftop solar energy plants in Tamil Nadu (Categories: general)
+2025-04-01 22:06:14,026 - INFO - Scraped RSS article: NGT directs T.N. government to sanction land to Tiruppur City Corporation for solid waste management on priority basis (Categories: general, politics)
+2025-04-01 22:06:14,820 - INFO - Scraped RSS article: POSH Act awareness: training programme for film industry on April 3 (Categories: general, entertainment, business)
+2025-04-01 22:06:15,369 - INFO - Scraped RSS article: Warangal leaders of BRS meet KCR ahead of April 27 Silver Jubilee event (Categories: general, technology, politics)
+2025-04-01 22:06:15,723 - INFO - Scraped RSS article: DUK to host faculty development programme (Categories: general, technology)
+2025-04-01 22:06:16,264 - INFO - Scraped RSS article: Anna varsity opens next year's admission process for NRIs, foreign nationals (Categories: general, technology)
+2025-04-01 22:06:16,603 - INFO - Scraped RSS article: Death in police encounter:  Three cases of attempt to murder registered against deceased Bose (Categories: general, technology)
+2025-04-01 22:06:17,080 - INFO - Scraped RSS article: CISF cyclothon culminated (Categories: general)
+2025-04-01 22:06:18,029 - INFO - Scraped RSS article: Parents can choose to cancel gift deeds executed in favour of select children: Madras High Court (Categories: general, technology)
+2025-04-01 22:06:18,420 - INFO - Scraped RSS article: APMC should oversee strict adherence to medical ethics, says Minister Satya Kumar (Categories: general, health, technology, politics)
+2025-04-01 22:06:19,067 - INFO - Scraped RSS article: Vizhinjam handles 240 ships, 4.9 lakh TEU cargo in first fiscal (Categories: general, world, technology)
+2025-04-01 22:06:19,486 - INFO - Scraped RSS article: U.S. court rejects Khalistani separatist Pannun's claim that complaint served on NSA Doval during Washington visit (Categories: general, technology, politics)
+2025-04-01 22:06:19,966 - INFO - Scraped RSS article: HC directs Tangedco to pay compensation (Categories: general, technology)
+2025-04-01 22:06:20,486 - INFO - Scraped RSS article: CCB police take three into custody for blackmailing businessman in Bengaluru (Categories: general, technology)
+2025-04-01 22:06:20,866 - INFO - Scraped RSS article: India-U.S. tri-service exercise Tiger Triumph begins at Eastern Naval Command in Visakhapatnam (Categories: general, technology)
+2025-04-01 22:06:21,225 - INFO - Scraped RSS article: SCR Vijayawada division achieves its highest freight loading, revenue during FY 2024-25 (Categories: general, business)
+2025-04-01 22:06:21,796 - INFO - Scraped RSS article: Pharmacy intern suicide: She will die if shifted to another hospital, say doctors (Categories: general, health)
+2025-04-01 22:06:22,816 - INFO - Scraped RSS article: Police probe murder conspiracy against MLC R. Rajendra after leaked audio surfaces (Categories: general, technology)
+2025-04-01 22:06:23,836 - INFO - Scraped RSS article: Bengaluru’s ORR to have white-topped roads, AC bus stands, footpaths and uniform service roads (Categories: general, technology)
+2025-04-01 22:06:24,218 - INFO - Scraped RSS article: Man gets death sentence for murder of minor in Anakapalli district (Categories: general)
+2025-04-01 22:06:24,749 - INFO - Scraped RSS article: Looming U.S. reciprocal tariffs spook stock markets, Sensex falls 1,390 points (Categories: general, technology, business)
+2025-04-01 22:06:25,149 - INFO - Scraped RSS article: KMC achieves 75 per cent property tax collection (Categories: general)
+2025-04-01 22:06:25,563 - INFO - Scraped RSS article: Yatnal supporters to seek help of Lingayat, other religious leaders to urge BJP to withdraw his expulsion (Categories: general, technology, politics)
+2025-04-01 22:06:25,927 - INFO - Scraped RSS article: Two of a tour group drown Edamalayar in Ernakulam (Categories: general)
+2025-04-01 22:06:26,427 - INFO - Scraped RSS article: Why supporting local artists matters amid Ghibli trend (Categories: general, entertainment, technology)
+2025-04-01 22:06:26,844 - INFO - Scraped RSS article: Assam launches entrepreneurship support scheme for women (Categories: general, technology, politics)
+2025-04-01 22:06:27,212 - INFO - Scraped RSS article: Second batch of KITE online AI course from April 12 (Categories: general, technology)
+2025-04-01 22:06:27,585 - INFO - Scraped RSS article: World music calls out to fans in Bengaluru (Categories: general, entertainment, world, technology)
+2025-04-01 22:06:27,992 - INFO - Scraped RSS article: Kodandarama rides Hanumantha, Gaja Vahanams on sixth day of Brahmotsavams (Categories: general)
+2025-04-01 22:06:28,360 - INFO - Scraped RSS article: Idukki’s Kudiyetta Smarakam museum project to be opened for tourists soon (Categories: general)
+2025-04-01 22:06:29,451 - INFO - Scraped RSS article: Kin of slain Maoist await arrival of her mortal remains from Chhattisgarh (Categories: general, technology)
+2025-04-01 22:06:29,855 - INFO - Scraped RSS article: NEP-2020 opens new career paths, reduces unemployment: T.V. Kattimani (Categories: general, politics)
+2025-04-01 22:06:30,234 - INFO - Scraped RSS article: Visakhapatnam Port Authority handles 82.62 million tonnes of cargo in the 2024-25 financial year (Categories: general)
+2025-04-01 22:06:30,665 - INFO - Scraped RSS article: Excise officials seize 20 g of ganja from Government College Hostel for Men in Thiruvananthapuram (Categories: general)
+2025-04-01 22:06:31,145 - INFO - Scraped RSS article: Karnataka High Court stays FIR against Yatnal on his remarks against Ranya Rao (Categories: general, technology)
+2025-04-01 22:06:31,995 - INFO - Scraped RSS article: Rama Bhaktha Sabha rings in Ramanavami celebrations in Bengaluru (Categories: general, entertainment)
+2025-04-01 22:06:32,406 - INFO - Scraped RSS article: Two arrested for ‘murder’ of YSRCP activist; Jagan assures support to family (Categories: general, technology)
+2025-04-01 22:06:33,116 - INFO - Scraped RSS article: Public hearing on tree-cutting for widening NH 766C (Categories: general)
+2025-04-01 22:06:33,873 - INFO - Scraped RSS article: Free NEET, CUET coaching for government, aided school students begins in Virudhunagar district (Categories: general)
+2025-04-01 22:06:34,576 - INFO - Scraped RSS article: Tourist footfall from Udumalpet to Kanthalloor in Kerala on rise, but tour operators aware of limitations (Categories: general, technology)
+2025-04-01 22:06:35,056 - INFO - Scraped RSS article: EPDCL introduces e-retail facility for energy-efficient appliances in Visakhapatnam (Categories: general, technology)
+2025-04-01 22:06:35,567 - INFO - Scraped RSS article: Kancha Gachibolwli land: govt. decides to go on the offensive (Categories: general, technology, politics)
+2025-04-01 22:06:36,165 - INFO - Scraped RSS article: Pro-Hindutva activists stage protest over fencing of Idgah ground (Categories: general)
+2025-04-01 22:06:36,493 - INFO - Scraped RSS article: Thrikkakara municipality’s bid for waste dumping-free status hits roadblock (Categories: general, technology)
+2025-04-01 22:06:37,148 - INFO - Scraped RSS article: PCC chief, Ministers leave for Delhi to attend BC rally (Categories: general, politics)
+2025-04-01 22:06:38,000 - INFO - Scraped RSS article: ‘Sthree Chetana’ campaign begins in Mysuru to boost women’s participation in MGNREGA (Categories: general, technology, politics)
+2025-04-01 22:06:38,664 - INFO - Scraped RSS article: Harish Rao flays govt. for betraying farmers on Rythu Bharosa (Categories: general, politics)
+2025-04-01 22:06:38,992 - INFO - Scraped RSS article: Modernised Tirupati railway station to be opened in few months (Categories: general, technology)
+2025-04-01 22:06:39,293 - INFO - Scraped RSS article: Summer showers to intensify over Kerala (Categories: general, technology)
+2025-04-01 22:06:39,596 - INFO - Scraped RSS article: Workers are ready for any sacrifice for protection of Visakhapatnam Steel Plant, say Visakha Ukku Parirakshana Porata Committee leaders (Categories: general, technology, politics)
+2025-04-01 22:06:40,021 - INFO - Scraped RSS article: EC holds meetings with political parties at the grassroots level (Categories: general, technology, politics)
+2025-04-01 22:06:40,320 - INFO - Scraped RSS article: Kannada play ‘Mattiah 22:39’ to be staged on April 3 (Categories: general)
+2025-04-01 22:06:40,635 - INFO - Scraped RSS article: Kerala University to hold re-examination for MBA students after loss of answer sheets (Categories: general, world, technology)
+2025-04-01 22:06:41,039 - INFO - Scraped RSS article: Kanniyakumari district records sharp decline in deaths in road accidents (Categories: general, technology)
+2025-04-01 22:06:41,441 - INFO - Scraped RSS article: Police identify human remains found in forest area in Erode’s Bargur hills (Categories: general, technology)
+2025-04-01 22:06:41,868 - INFO - Scraped RSS article: Experts call for deeper collaboration among stakeholders to strengthen disaster response (Categories: general, world, technology, politics)
+2025-04-01 22:06:42,277 - INFO - Scraped RSS article: Three-day graduation ceremony of FMCIs from April 3 (Categories: general, health)
+2025-04-01 22:06:42,574 - INFO - Scraped RSS article: Externment orders issued against 110 persons in three months in Coimbatore (Categories: general)
+2025-04-01 22:06:43,008 - INFO - Scraped RSS article: 14-year-old boy mowed down by car; angry residents demand flyover (Categories: general, technology)
+2025-04-01 22:06:43,300 - INFO - Scraped RSS article: Fine rice reflects the self-respect of Telangana: Komatireddy (Categories: general, technology, politics)
+2025-04-01 22:06:44,009 - INFO - Scraped RSS article: Open end spinning mills in Tamil Nadu to stop production for a day on April 2 (Categories: general, politics)
+2025-04-01 22:06:44,533 - INFO - Scraped RSS article: ‘Pink book’ on annual project estimates of railway budget yet to be published (Categories: general, technology)
+2025-04-01 22:06:44,812 - INFO - Scraped RSS article: Hosabale’s remarks on Kashi and Mathura reflect the stirrings within the RSS (Categories: general, technology)
+2025-04-01 22:06:45,232 - INFO - Scraped RSS article: Manipur BJP MLAs seek review of 2001 census, NRC implementation before delimitation (Categories: general, politics)
+2025-04-01 22:06:45,656 - INFO - Scraped RSS article: Theyyam and Thira festival at Chittanda on Wednesday and Thursday (Categories: general)
+2025-04-01 22:06:46,073 - INFO - Scraped RSS article: Holiday on April 11 in Tirunelveli (Categories: general)
+2025-04-01 22:06:46,475 - INFO - Scraped RSS article: Water level in Mullaperiyar dam stands at 113 feet (Categories: general)
+2025-04-01 22:06:46,896 - INFO - Scraped RSS article: Low vacation season booking worries tourism stakeholders in Kerala (Categories: general, technology)
+2025-04-01 22:06:47,453 - INFO - Scraped RSS article: 19 bags of gutkha seized, one held (Categories: general)
+2025-04-01 22:06:47,810 - INFO - Scraped RSS article: Man dies in train accident in Nileswaram (Categories: general)
+2025-04-01 22:06:49,375 - INFO - Scraped RSS article: Rare copper plates documenting Devaraya I’s coronation during Vijayanagara Empire unveiled in Bengaluru (Categories: general, technology)
+2025-04-01 22:06:49,768 - INFO - Scraped RSS article: Krishnagiri Collector inspects NEET-UG centres (Categories: general)
+2025-04-01 22:06:50,278 - INFO - Scraped RSS article: L-G hails contributions of migrant community in Puducherry (Categories: general, world, technology)
+2025-04-01 22:06:50,954 - INFO - Scraped RSS article: Andhra Pradesh Chief Minister Chandrababu Naidu promises support to shipbuilding industry in Parchur constituency (Categories: general, business, technology, politics)
+2025-04-01 22:06:51,313 - INFO - Scraped RSS article: Woman found dead under suspicious circumstances in Adugodi (Categories: general, technology)
+2025-04-01 22:06:51,725 - INFO - Scraped RSS article: Midnight market by women entrepreneurs in Kochi on April 5, 6 (Categories: general, technology, business)
+2025-04-01 22:06:52,599 - INFO - Scraped RSS article: Not even an inch of Kancha Gachibowli land belongs to HCU, asserts govt. (Categories: general, technology, politics)
+2025-04-01 22:06:53,005 - INFO - Scraped RSS article: Visakhapatnam District Collector schedules special meeting of GVMC on April 19 to discuss no-confidence motion against Mayor (Categories: general, technology, politics)
+2025-04-01 22:06:53,931 - INFO - Scraped RSS article: ‘Epiform’ under K-CDC to forecast future epidemics (Categories: general)
+2025-04-01 22:06:54,204 - INFO - Scraped RSS article: Ashok appeals to Speaker to revoke suspension of 18 MLAs so that they can discharge their duties without restrictions (Categories: general, technology)
+2025-04-01 22:06:54,911 - INFO - Scraped RSS article: INTUC declares support for ASHAs, urges talks to settle stir (Categories: general, technology, politics)
+2025-04-01 22:06:55,636 - INFO - Scraped RSS article: CM requests Maharashtra to release water from its reservoirs to Krishna, Bhima rivers to cater to drinking water needs of North Karnataka (Categories: general, politics)
+2025-04-01 22:06:56,048 - INFO - Scraped RSS article: Farmers outfit demands scale-up of MNREGS (Categories: general)
+2025-04-01 22:06:56,504 - INFO - Scraped RSS article: Elderly woman found dead at home in Vijayanagar under suspicious circumstances (Categories: general)
+2025-04-01 22:06:56,977 - INFO - Scraped RSS article: U.S. reciprocal tariff plan is unproductive, says Netherlands FM ahead of announcement (Categories: technology, world, business, general, politics)
+2025-04-01 22:06:57,029 - INFO - Successfully scraped 10 articles from TheHindu
+2025-04-01 22:06:57,030 - INFO - Scraping TimesOfIndia from https://timesofindia.indiatimes.com/rssfeeds/4719148.cms
+2025-04-01 22:06:58,978 - INFO - Scraped RSS article: IPL Live: PBKS look to put some early pressure in chase of 172 (Categories: sports, general)
+2025-04-01 22:06:59,575 - INFO - Scraped RSS article: IPL: Shreyas Iyer hands debut cap to 157.3 kmph star vs LSG (Categories: sports, general, technology)
+2025-04-01 22:07:00,113 - INFO - Scraped RSS article: Gavaskar trolls Rishabh Pant with 'stupid, stupid' remark (Categories: sports, general, entertainment, technology)
+2025-04-01 22:07:00,759 - INFO - Scraped RSS article: IPL 2025 crorepatis who have been a royal disappointment (Categories: sports, general, technology)
+2025-04-01 22:07:01,386 - INFO - Scraped RSS article: Aniket Verma's journey: Uncle's sacrifices, and Pandya's Maggi story (Categories: sports, general, technology)
+2025-04-01 22:07:02,031 - INFO - Scraped RSS article: Virat Kohli to play in Big Bash: Is it true? (Categories: sports, general)
+2025-04-01 22:07:02,616 - INFO - Scraped RSS article: LSG vs PBKS: Will Pant come to the party against Punjab? (Categories: general, technology)
+2025-04-01 22:07:03,346 - INFO - Scraped RSS article: 'You're from Punjab, so just...' - What Hardik told MI debutant Ashwani (Categories: sports, general, technology)
+2025-04-01 22:07:03,941 - INFO - Scraped RSS article: 'Gareebon ko bhi rehne de': Virender Sehwag mocks RCB (Categories: sports, general)
+2025-04-01 22:07:04,613 - INFO - Scraped RSS article: Key is to improve every game, even if it's by just 0.5%: Arshdeep (Categories: sports, general, technology)
+2025-04-01 22:07:05,186 - INFO - Scraped RSS article: Ashwani Kumar: From forgotten name to record-setter on IPL debut (Categories: sports, general, entertainment, technology)
+2025-04-01 22:07:05,844 - INFO - Scraped RSS article: 'Don't drop Ashwin, but stop him from bowling': Batting legend to CSK (Categories: general, technology)
+2025-04-01 22:07:06,554 - INFO - Scraped RSS article: Suryakumar Yadav joins elite club featuring Rohit Sharma, Virat Kohli (Categories: general)
+2025-04-01 22:07:07,348 - INFO - Scraped RSS article: MI set IPL record for most wins against a team at one venue (Categories: sports, general, technology)
+2025-04-01 22:07:07,946 - INFO - Scraped RSS article: 'I just had a banana ...': Ashwani reveals after record-breaking IPL debut (Categories: general, technology)
+2025-04-01 22:07:08,581 - INFO - Scraped RSS article: 'MS Dhoni can't bat 10 overs running full stick' (Categories: sports, general, technology)
+2025-04-01 22:07:09,595 - INFO - Scraped RSS article: 'If you're not Rohit, you're losing your place in Mumbai Indians': Vaughan (Categories: general)
+2025-04-01 22:07:10,212 - INFO - Scraped RSS article: Who is Ashwani Kumar? MI's debutant who took a wicket on first ball (Categories: general, technology)
+2025-04-01 22:07:10,805 - INFO - Scraped RSS article: US prez Trump comments on Woods dating ex daughter-in-law Vanessa (Categories: general, technology)
+2025-04-01 22:07:11,364 - INFO - Scraped RSS article: ECB to 'retire' Pataudi Trophy: What’s next for ENG-IND series? (Categories: general)
+2025-04-01 22:07:11,413 - INFO - Successfully scraped 10 articles from TimesOfIndia
+2025-04-01 22:07:11,413 - INFO - Scraping NDTV from https://feeds.feedburner.com/ndtvnews-top-stories
+2025-04-01 22:07:14,343 - INFO - Scraped RSS article: "Entire Bloc To Vote Against Waqf Bill Tomorrow": MP After INDIA Meet (Categories: general, technology, politics)
+2025-04-01 22:07:15,416 - INFO - Scraped RSS article: Video: Donald Trump Claims He "Heard India Will Drop Tariffs Substantially" (Categories: general, business, technology, politics)
+2025-04-01 22:07:16,683 - INFO - Scraped RSS article: Bengaluru Teacher Arrested For Extortion After Affair With Student's Father (Categories: general)
+2025-04-01 22:07:17,902 - INFO - Scraped RSS article: 'Might As Well Split Bangladesh...': Northeast Leaders Slam Dhaka Remark (Categories: general, world, technology, politics)
+2025-04-01 22:07:19,687 - INFO - Scraped RSS article: As Trump Changes US Election Process, Talks Of 3rd Term, Democrats Sue Him (Categories: general, technology, politics)
+2025-04-01 22:07:20,667 - INFO - Scraped RSS article: US Court Rejects Claim Of Summons Being Served On Ajit Doval (Categories: general, technology, politics)
+2025-04-01 22:07:22,154 - INFO - Scraped RSS article: German Tourist Raped Inside Car In Hyderabad, Accused Arrested: Police (Categories: general, technology)
+2025-04-01 22:07:24,574 - INFO - Scraped RSS article: IPL LIVE: Rishabh Pant's Gamble Turns Into Masterstroke, PBKS 1-Down (Categories: general)
+2025-04-01 22:07:25,846 - INFO - Scraped RSS article: Loan Denial, Online Shows And 17 kg Gold Heist: How Gang Looted SBI Bank (Categories: general, technology)
+2025-04-01 22:07:27,064 - INFO - Scraped RSS article: Scared After Cement Murder, Man Gets Wife Married To Lover. Then A Big Twist (Categories: general, technology)
+2025-04-01 22:07:29,032 - INFO - Scraped RSS article: After SRH Threatens To Move Out Of Hyderabad, Major Development Emerges (Categories: general, world, technology)
+2025-04-01 22:07:30,423 - INFO - Scraped RSS article: Shimla Builds Asia's Longest Ropeway To Ferry 2,000 People Every Hour (Categories: general)
+2025-04-01 22:07:32,010 - INFO - Scraped RSS article: "To Be Arrested Tomorrrow": Musk After 4 Lakh Social Security Numbers Stolen (Categories: general, technology, politics)
+2025-04-01 22:07:34,232 - INFO - Scraped RSS article: Ratan Tata's Rs 3,800-Crore Estate: Who Gets What, Key Details Revealed (Categories: general, technology)
+2025-04-01 22:07:35,253 - INFO - Scraped RSS article: Dagger To Chicken's Neck? Why Bangladesh Leader's Remarks Enraged India (Categories: general, world, technology, politics)
+2025-04-01 22:07:36,786 - INFO - Scraped RSS article: Pay More For Road Journeys, Toll Charges At National Highways Hiked (Categories: general, world)
+2025-04-01 22:07:38,272 - INFO - Scraped RSS article: Dagger To Chicken's Neck? Why Bangladesh Leader's Remarks Enraged India (Categories: general, world, technology, politics)
+2025-04-01 22:07:38,373 - INFO - Successfully scraped 10 articles from NDTV
+2025-04-01 22:07:38,373 - INFO - Completed scraping. Total articles: 107

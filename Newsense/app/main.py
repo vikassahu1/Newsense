@@ -146,28 +146,52 @@ async def refresh_news():
         print("Starting news refresh process...")
         start_time = time.time()
         
-        # Execute the run_scraper.py script
-        result = subprocess.run(
-            ["python", "run_scraper.py"],
-            capture_output=True,
-            text=True,
-            check=False
-        )
-        
-        # Check the result
-        if result.returncode == 0:
-            # Success
-            end_time = time.time()
-            duration = end_time - start_time
-            message = f"News refresh completed successfully in {duration:.1f} seconds"
-            print(message)
-            return {"status": "success", "message": message}
-        else:
-            # Error
-            error_message = f"Error running scraper: {result.stderr}"
+        try:
+            # First try to use the subprocess approach with the current Python executable
+            python_executable = sys.executable
+            print(f"Using Python executable: {python_executable}")
+            
+            result = subprocess.run(
+                [python_executable, "run_scraper.py"],
+                capture_output=True,
+                text=True,
+                check=False
+            )
+            
+            if result.returncode == 0:
+                # Success
+                end_time = time.time()
+                duration = end_time - start_time
+                message = f"News refresh completed successfully in {duration:.1f} seconds"
+                print(message)
+                return {"status": "success", "message": message}
+            else:
+                # Error with subprocess, try the direct approach
+                print(f"Subprocess error: {result.stderr}")
+                print("Trying direct import approach...")
+                
+                # Import the scraper module directly
+                from scrapper.main import EnhancedNewsScraper
+                
+                # Create output directory if it doesn't exist
+                output_dir = "scrapper/scraped_news"
+                os.makedirs(output_dir, exist_ok=True)
+                
+                # Initialize and run the scraper
+                scraper = EnhancedNewsScraper(output_dir=output_dir, days_threshold=2)
+                article_count = scraper.scrape_all_sources()
+                
+                end_time = time.time()
+                duration = end_time - start_time
+                message = f"News refresh completed successfully in {duration:.1f} seconds. Scraped {article_count} articles."
+                print(message)
+                return {"status": "success", "message": message}
+                
+        except ImportError as e:
+            error_message = f"Failed to import scraper: {str(e)}"
             print(error_message)
             return {"status": "error", "message": error_message}
-    
+            
     except Exception as e:
         error_message = f"Failed to refresh news: {str(e)}"
         print(error_message)

@@ -49,15 +49,51 @@ document.addEventListener('DOMContentLoaded', () => {
             } else {
                 showStatus('success', data.message);
                 
+                // Update the sources list
+                const sourcesResponse = await fetch('/api/sources');
+                const sourcesData = await sourcesResponse.json();
+                
+                if (sourcesData.sources) {
+                    // Clear existing source buttons
+                    const sourceButtonsContainer = document.getElementById('source-buttons');
+                    sourceButtonsContainer.innerHTML = '';
+                    
+                    // Add new source buttons
+                    sourcesData.sources.forEach(source => {
+                        const button = document.createElement('button');
+                        button.dataset.source = source;
+                        button.className = 'source-btn bg-gray-200 hover:bg-blue-500 hover:text-white transition-colors duration-300 py-2 px-4 rounded text-sm';
+                        button.textContent = source;
+                        
+                        // Add click event listener
+                        button.addEventListener('click', () => {
+                            // Remove active class from all buttons
+                            document.querySelectorAll('.source-btn').forEach(btn => {
+                                btn.classList.remove('bg-blue-500', 'text-white');
+                                btn.classList.add('bg-gray-200');
+                            });
+                            
+                            // Set active class to clicked button
+                            button.classList.remove('bg-gray-200');
+                            button.classList.add('bg-blue-500', 'text-white');
+                            
+                            // Update selected source
+                            selectedSource = button.dataset.source;
+                            
+                            // Enable apply button
+                            applyButton.disabled = false;
+                        });
+                        
+                        sourceButtonsContainer.appendChild(button);
+                    });
+                }
+                
                 // Reload the current source if one is selected
                 if (selectedSource) {
                     // Simulate clicking apply button after a short delay
                     setTimeout(() => {
                         applyButton.click();
                     }, 1000);
-                } else {
-                    // Just reload the page to show updated source list
-                    window.location.reload();
                 }
             }
         } catch (error) {
